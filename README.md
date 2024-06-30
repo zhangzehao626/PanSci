@@ -41,4 +41,4 @@ If you use the data or code in this repository, please cite our manuscript as fo
 - EasySci: Sziraki, Andras, et al. "A global view of aging and Alzheimer’s pathogenesis-associated cell population dynamics and molecular signatures in human and mouse brains." Nature Genetics 55.12 (2023): 2104-2116. DOI: https://doi.org/10.1038/s41588-023-01572-y
 
 ## Contact
-For questions or further information, please contact Zehao Zhang at zzhang@rockefeller.edu or raise an issue in this repository.
+For questions or further information, please contact Zehao Zhang at zzhang03@rockefeller.edu or raise an issue in this repository.
