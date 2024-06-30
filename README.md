@@ -27,7 +27,7 @@ To identify changes in cell populations across different conditions (e.g., age, 
 - Applying a likelihood-ratio test using the differentialGeneTest() function in Monocle2 (version 2.28.0).
 - Setting criteria for significant changes: maximum false discovery rate (FDR) of 0.05 and a fold change higher than 2 between conditions.
 
-### Differential gene analysis
+### Differential gene expression analysis
 To identify differentially expressed genes, we employed the likelihood ratio test to identify genes significantly associated with specific cell types/subtypes in a one vs. all comparison in Monocle2 (version 2.28.0). Criteria for significant changes:
 - Maximum false discovery rate (FDR) of 0.05.
 - Fold change higher than 2 between top-ranked and second-top clusters.
