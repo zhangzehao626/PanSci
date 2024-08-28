@@ -35,14 +35,41 @@ To identify differentially expressed genes, we employed the likelihood ratio tes
 
 ## Visualization functions
 
-### 
+### Cellular level analysis
+- UMAP visualization of cell metadata
+- UMAP visualization of targeted label
+- UMAP visualization of cell density
+- Box plot for for cell proportion
+- Heatmap for cell proportion across experimental condition
+- Scatter plot for cell proportion fold change across comparasion condition
+- Dot plot for cell-type-specific proportion changes
+- Stacked bar plot for proportion of cell types from different lineage/organ
+- Stacked bar plot with flows for cell population dynamics in different lineage/organ across age groups
+- Barplot for cell type proportion fold changes between two conditions
+- Volcano plot for visualizing differentially aboundant cell types
+
+### Molecular level analysis
+- UMAP visualization of targeted gene expression in each cell
+- UMAP visualization of targeted gene expression density
+- Heatmap for targeted gene expression across cell types/conditions
+- Dot plot for targeted gene expression across cell types/conditions
+- Violin plot for targeted gene expression across cell types/conditions
+- Histogram for the distribution and count of differentially expressed genes across cell types/organs
+- Lollipop plot for the count of differentially expressed genes
+- Volcano plot for visualizing differentially expressed genes
+- Stacked dotplot for visualizing differentially expressed genes across cell types/conditions
+- Sankey diagram for the flow of differentially expressed genes upon perturbations
+
+
+### Generation of customized color palettes
+https://medialab.github.io/iwanthue/
 
 ## Citation
 If you use the data or code in this repository, please cite our manuscript as follows:
 
-- PanSci: Zhang, Zehao, et al. "A Panoramic View of Cell Population Dynamics in Mammalian Aging." bioRxiv (2024). DOI: https://doi.org/10.1101/2024.03.01.583001
+- __PanSci__: Zhang, Zehao, et al. "A Panoramic View of Cell Population Dynamics in Mammalian Aging." bioRxiv (2024). DOI: https://doi.org/10.1101/2024.03.01.583001
 
-- EasySci: Sziraki, Andras, et al. "A global view of aging and Alzheimer’s pathogenesis-associated cell population dynamics and molecular signatures in human and mouse brains." Nature Genetics 55.12 (2023): 2104-2116. DOI: https://doi.org/10.1038/s41588-023-01572-y
+- __EasySci__: Sziraki, Andras, et al. "A global view of aging and Alzheimer’s pathogenesis-associated cell population dynamics and molecular signatures in human and mouse brains." Nature Genetics 55.12 (2023): 2104-2116. DOI: https://doi.org/10.1038/s41588-023-01572-y
 
 ## Contact
 For questions or further information, please contact Zehao Zhang at zzhang03@rockefeller.edu or raise an issue in this repository.
