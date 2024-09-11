@@ -53,7 +53,7 @@ To identify differentially expressed genes, we employed the likelihood ratio tes
 - UMAP visualization of targeted gene expression density
 - Heatmap for targeted gene expression across cell types/conditions
 - Dot plot for targeted gene expression across cell types/conditions
-- Violin plot for targeted gene expression across cell types/conditions
+- Violin plot for targeted genes expression across cell types/conditions
 - Histogram for the distribution and count of differentially expressed genes across cell types/organs
 - Lollipop plot for the count of differentially expressed genes
 - Volcano plot for visualizing differentially expressed genes
