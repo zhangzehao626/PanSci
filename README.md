@@ -14,10 +14,6 @@ All data and materials are available for interactive exploration and download:
 ## Methodology
 The single-cell datasets were generated using optimized EasySci, an combinatorial indexing based single-cell profiling method. This method offers full-gene-body coverage, high scalability, and low cost platform for organism-scale cell population analysis. Computational analysis pipeline to process raw EasySci data can be found here [https://github.com/JunyueCaoLab/EasySci].
 
-## Repository Structure
-data/: Sample data for testing scripts.
-scripts/: Includes scripts used for data processing and analysis.
-
 ## Analysis functions
 
 ### Differential aboundance analysis
@@ -33,9 +29,6 @@ To identify differentially expressed genes, we employed the likelihood ratio tes
 - Fold change higher than 2 between top-ranked and second-top clusters.
 - Transcript per million over 50 in the highest-ranked cluster.
 
-## Customized functions
-- Construct cds
-- Convert cds to seu
 ## Visualization functions
 
 ### Cellular level analysis
