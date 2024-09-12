@@ -4,7 +4,7 @@ Required packages are included in each script snippets.
 
 ### Cellular level analysis
 - UMAP visualization of cell metadata
-<img src="plotting_scripts/sample_figure/sex_label_kidney.png" width="80%" />
+<img src="sample_figure/sex_label_kidney.png" width="80%" />
 - UMAP visualization of targeted label
 - UMAP visualization of cell density
 - Box plot for for cell proportion
