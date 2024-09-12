@@ -1,0 +1,1130 @@
+"","organ","immune_annotation","age_group","cell_type_count","organ_cell_count","normalized_prop"
+"1","BAT","CD4+ Ccr9+ T helper cells","06_months",9,227921,3.94873662365469e-05
+"2","BAT","CD4+ Ccr9+ T helper cells","12_months",7,256015,2.73421479210203e-05
+"3","BAT","CD4+ Ccr9+ T helper cells","16_months",38,127861,0.000297197738168793
+"4","BAT","CD4+ Ccr9+ T helper cells","23_months",26,277509,9.36906550778533e-05
+"5","BAT","CD4+ T follicular helper cells","03_months",4,102444,3.90457225410956e-05
+"6","BAT","CD4+ T follicular helper cells","06_months",23,227921,0.000100912158160064
+"7","BAT","CD4+ T follicular helper cells","12_months",131,256015,0.000511688768236236
+"8","BAT","CD4+ T follicular helper cells","16_months",631,127861,0.0049350466522239
+"9","BAT","CD4+ T follicular helper cells","23_months",277,277509,0.000998165825252514
+"10","BAT","CD4+ T regulatory cells","03_months",9,102444,8.78528757174651e-05
+"11","BAT","CD4+ T regulatory cells","06_months",47,227921,0.000206211801457523
+"12","BAT","CD4+ T regulatory cells","12_months",65,256015,0.000253891373552331
+"13","BAT","CD4+ T regulatory cells","16_months",266,127861,0.00208038416718155
+"14","BAT","CD4+ T regulatory cells","23_months",151,277509,0.000544126496798302
+"15","BAT","CD4+ memory T cells","03_months",24,102444,0.000234274335246574
+"16","BAT","CD4+ memory T cells","06_months",234,227921,0.00102667152215022
+"17","BAT","CD4+ memory T cells","12_months",176,256015,0.000687459719157081
+"18","BAT","CD4+ memory T cells","16_months",124,127861,0.000969803145603429
+"19","BAT","CD4+ memory T cells","23_months",436,277509,0.00157112021592093
+"20","BAT","CD4+ naive T cells","03_months",66,102444,0.000644254421928078
+"21","BAT","CD4+ naive T cells","06_months",129,227921,0.000565985582723839
+"22","BAT","CD4+ naive T cells","12_months",133,256015,0.000519500810499385
+"23","BAT","CD4+ naive T cells","16_months",347,127861,0.00271388460906766
+"24","BAT","CD4+ naive T cells","23_months",324,277509,0.0011675297017394
+"25","BAT","CD8+ Gzmb+ cytotoxic T cells","03_months",1,102444,9.76143063527391e-06
+"26","BAT","CD8+ Gzmb+ cytotoxic T cells","06_months",3,227921,1.31624554121823e-05
+"27","BAT","CD8+ Gzmb+ cytotoxic T cells","12_months",2,256015,7.81204226314864e-06
+"28","BAT","CD8+ Gzmb+ cytotoxic T cells","16_months",1,127861,7.82099310970507e-06
+"29","BAT","CD8+ Gzmb+ cytotoxic T cells","23_months",9,277509,3.24313806038723e-05
+"30","BAT","CD8+ Gzmk+ cytotoxic T cells","03_months",8,102444,7.80914450821912e-05
+"31","BAT","CD8+ Gzmk+ cytotoxic T cells","06_months",39,227921,0.00017111192035837
+"32","BAT","CD8+ Gzmk+ cytotoxic T cells","12_months",81,256015,0.00031638771165752
+"33","BAT","CD8+ Gzmk+ cytotoxic T cells","16_months",341,127861,0.00266695865040943
+"34","BAT","CD8+ Gzmk+ cytotoxic T cells","23_months",394,277509,0.00141977377310285
+"35","BAT","CD8+ naive T cells","03_months",14,102444,0.000136660028893835
+"36","BAT","CD8+ naive T cells","06_months",57,227921,0.000250086652831464
+"37","BAT","CD8+ naive T cells","12_months",95,256015,0.000371072007499561
+"38","BAT","CD8+ naive T cells","16_months",153,127861,0.00119661194578488
+"39","BAT","CD8+ naive T cells","23_months",190,277509,0.000684662479415082
+"40","BAT","CD8+ tissue-resident memory T cells","03_months",189,102444,0.00184491039006677
+"41","BAT","CD8+ tissue-resident memory T cells","06_months",658,227921,0.00288696522040532
+"42","BAT","CD8+ tissue-resident memory T cells","12_months",939,256015,0.00366775384254829
+"43","BAT","CD8+ tissue-resident memory T cells","16_months",613,127861,0.00479426877624921
+"44","BAT","CD8+ tissue-resident memory T cells","23_months",624,277509,0.00224857572186848
+"45","BAT","Car1+ double negative cells","06_months",1,227921,4.3874851373941e-06
+"46","BAT","Car1+ double negative cells","12_months",1,256015,3.90602113157432e-06
+"47","BAT","Car1+ double negative cells","16_months",1,127861,7.82099310970507e-06
+"48","BAT","Epb41l3+ double negative cells","06_months",5,227921,2.19374256869705e-05
+"49","BAT","Epb41l3+ double negative cells","12_months",2,256015,7.81204226314864e-06
+"50","BAT","Epb41l3+ double negative cells","23_months",3,277509,1.08104602012908e-05
+"51","BAT","Gammadelta T cells","03_months",2,102444,1.95228612705478e-05
+"52","BAT","Gammadelta T cells","06_months",14,227921,6.14247919235174e-05
+"53","BAT","Gammadelta T cells","12_months",35,256015,0.000136710739605101
+"54","BAT","Gammadelta T cells","16_months",25,127861,0.000195524827742627
+"55","BAT","Gammadelta T cells","23_months",108,277509,0.000389176567246468
+"56","BAT","Liver-resident T cells","03_months",1,102444,9.76143063527391e-06
+"57","BAT","Liver-resident T cells","06_months",9,227921,3.94873662365469e-05
+"58","BAT","Liver-resident T cells","12_months",6,256015,2.34361267894459e-05
+"59","BAT","Liver-resident T cells","16_months",3,127861,2.34629793291152e-05
+"60","BAT","Liver-resident T cells","23_months",18,277509,6.48627612077446e-05
+"61","BAT","Prf1+ natural killer cells","03_months",23,102444,0.0002245129046113
+"62","BAT","Prf1+ natural killer cells","06_months",114,227921,0.000500173305662927
+"63","BAT","Prf1+ natural killer cells","12_months",89,256015,0.000347635880710115
+"64","BAT","Prf1+ natural killer cells","16_months",25,127861,0.000195524827742627
+"65","BAT","Prf1+ natural killer cells","23_months",83,277509,0.000299089398902378
+"66","BAT","Sema6d+ natural killer cells","03_months",9,102444,8.78528757174651e-05
+"67","BAT","Sema6d+ natural killer cells","06_months",34,227921,0.000149174494671399
+"68","BAT","Sema6d+ natural killer cells","12_months",36,256015,0.000140616760736676
+"69","BAT","Sema6d+ natural killer cells","16_months",19,127861,0.000148598869084396
+"70","BAT","Sema6d+ natural killer cells","23_months",38,277509,0.000136932495883016
+"71","BAT","Stab1+ double negative cells","06_months",8,227921,3.50998810991528e-05
+"72","BAT","Stab1+ double negative cells","12_months",6,256015,2.34361267894459e-05
+"73","BAT","Stab1+ double negative cells","16_months",5,127861,3.91049655485254e-05
+"74","BAT","Stab1+ double negative cells","23_months",15,277509,5.40523010064538e-05
+"75","BAT","Type 2 innate lymphoid cells","03_months",30,102444,0.000292842919058217
+"76","BAT","Type 2 innate lymphoid cells","06_months",118,227921,0.000517723246212503
+"77","BAT","Type 2 innate lymphoid cells","12_months",124,256015,0.000484346620315216
+"78","BAT","Type 2 innate lymphoid cells","16_months",72,127861,0.000563111503898765
+"79","BAT","Type 2 innate lymphoid cells","23_months",111,277509,0.000399987027447758
+"80","BAT","Type 3 innate lymphoid cells","03_months",2,102444,1.95228612705478e-05
+"81","BAT","Type 3 innate lymphoid cells","06_months",17,227921,7.45872473356996e-05
+"82","BAT","Type 3 innate lymphoid cells","12_months",3,256015,1.1718063394723e-05
+"83","BAT","Type 3 innate lymphoid cells","16_months",5,127861,3.91049655485254e-05
+"84","BAT","Type 3 innate lymphoid cells","23_months",6,277509,2.16209204025815e-05
+"85","Colon","CD4+ Ccr9+ T helper cells","03_months",202,293795,0.000687554247008969
+"86","Colon","CD4+ Ccr9+ T helper cells","06_months",281,223475,0.00125741134355073
+"87","Colon","CD4+ Ccr9+ T helper cells","12_months",211,266816,0.000790807147997122
+"88","Colon","CD4+ Ccr9+ T helper cells","16_months",324,238145,0.00136051565222868
+"89","Colon","CD4+ Ccr9+ T helper cells","23_months",331,278009,0.00119060893712074
+"90","Colon","CD4+ T follicular helper cells","03_months",74,293795,0.000251876308310216
+"91","Colon","CD4+ T follicular helper cells","06_months",256,223475,0.0011455420069359
+"92","Colon","CD4+ T follicular helper cells","12_months",160,266816,0.000599664188054689
+"93","Colon","CD4+ T follicular helper cells","16_months",226,238145,0.000949001658653341
+"94","Colon","CD4+ T follicular helper cells","23_months",183,278009,0.00065825207097612
+"95","Colon","CD4+ T regulatory cells","03_months",343,293795,0.00116748072635681
+"96","Colon","CD4+ T regulatory cells","06_months",291,223475,0.00130215907819667
+"97","Colon","CD4+ T regulatory cells","12_months",261,266816,0.000978202206764212
+"98","Colon","CD4+ T regulatory cells","16_months",379,238145,0.00159146738331689
+"99","Colon","CD4+ T regulatory cells","23_months",262,278009,0.000942415533310073
+"100","Colon","CD4+ memory T cells","03_months",487,293795,0.00165761840739291
+"101","Colon","CD4+ memory T cells","06_months",657,223475,0.00293992616623783
+"102","Colon","CD4+ memory T cells","12_months",469,266816,0.00175776565123531
+"103","Colon","CD4+ memory T cells","16_months",490,238145,0.00205756996787671
+"104","Colon","CD4+ memory T cells","23_months",418,278009,0.00150354844627332
+"105","Colon","CD4+ naive T cells","03_months",1851,293795,0.00630031144165149
+"106","Colon","CD4+ naive T cells","06_months",1258,223475,0.00562926501845844
+"107","Colon","CD4+ naive T cells","12_months",514,266816,0.00192642120412569
+"108","Colon","CD4+ naive T cells","16_months",297,238145,0.00124713934787629
+"109","Colon","CD4+ naive T cells","23_months",232,278009,0.000834505357740217
+"110","Colon","CD8+ Gzmb+ cytotoxic T cells","03_months",485,293795,0.00165081093960074
+"111","Colon","CD8+ Gzmb+ cytotoxic T cells","06_months",508,223475,0.00227318492001342
+"112","Colon","CD8+ Gzmb+ cytotoxic T cells","12_months",492,266816,0.00184396737826817
+"113","Colon","CD8+ Gzmb+ cytotoxic T cells","16_months",524,238145,0.00220034012891306
+"114","Colon","CD8+ Gzmb+ cytotoxic T cells","23_months",522,278009,0.00187763705491549
+"115","Colon","CD8+ Gzmk+ cytotoxic T cells","03_months",39,293795,0.000132745621947276
+"116","Colon","CD8+ Gzmk+ cytotoxic T cells","06_months",39,223475,0.000174516165119141
+"117","Colon","CD8+ Gzmk+ cytotoxic T cells","12_months",35,266816,0.000131176541136963
+"118","Colon","CD8+ Gzmk+ cytotoxic T cells","16_months",77,238145,0.000323332423523484
+"119","Colon","CD8+ Gzmk+ cytotoxic T cells","23_months",146,278009,0.000525162854439964
+"120","Colon","CD8+ naive T cells","03_months",130,293795,0.000442485406490921
+"121","Colon","CD8+ naive T cells","06_months",81,223475,0.000362456650632062
+"122","Colon","CD8+ naive T cells","12_months",38,266816,0.000142420244662989
+"123","Colon","CD8+ naive T cells","16_months",81,238145,0.000340128913057171
+"124","Colon","CD8+ naive T cells","23_months",64,278009,0.000230208374549025
+"125","Colon","CD8+ tissue-resident memory T cells","03_months",19,293795,6.46709440255961e-05
+"126","Colon","CD8+ tissue-resident memory T cells","06_months",17,223475,7.6071148898087e-05
+"127","Colon","CD8+ tissue-resident memory T cells","12_months",14,266816,5.24706164547853e-05
+"128","Colon","CD8+ tissue-resident memory T cells","16_months",14,238145,5.87877133679061e-05
+"129","Colon","CD8+ tissue-resident memory T cells","23_months",9,278009,3.23730526709567e-05
+"130","Colon","Car1+ double negative cells","03_months",3670,293795,0.0124917033986283
+"131","Colon","Car1+ double negative cells","06_months",2188,223475,0.00979080434053026
+"132","Colon","Car1+ double negative cells","12_months",2569,266816,0.00962835811945311
+"133","Colon","Car1+ double negative cells","16_months",2513,238145,0.0105523945495391
+"134","Colon","Car1+ double negative cells","23_months",3121,278009,0.0112262552651173
+"135","Colon","Epb41l3+ double negative cells","03_months",93,293795,0.000316547252335812
+"136","Colon","Epb41l3+ double negative cells","06_months",75,223475,0.000335608009844502
+"137","Colon","Epb41l3+ double negative cells","12_months",75,266816,0.000281092588150636
+"138","Colon","Epb41l3+ double negative cells","16_months",67,238145,0.000281341199689265
+"139","Colon","Epb41l3+ double negative cells","23_months",87,278009,0.000312939509152581
+"140","Colon","Gammadelta T cells","03_months",320,293795,0.00108919484674688
+"141","Colon","Gammadelta T cells","06_months",348,223475,0.00155722116567849
+"142","Colon","Gammadelta T cells","12_months",566,266816,0.00212131206524346
+"143","Colon","Gammadelta T cells","16_months",626,238145,0.00262865061202209
+"144","Colon","Gammadelta T cells","23_months",897,278009,0.00322651424953868
+"145","Colon","Liver-resident T cells","03_months",9,293795,3.0633605064756e-05
+"146","Colon","Liver-resident T cells","06_months",9,223475,4.02729611813402e-05
+"147","Colon","Liver-resident T cells","12_months",7,266816,2.62353082273927e-05
+"148","Colon","Liver-resident T cells","16_months",7,238145,2.93938566839531e-05
+"149","Colon","Liver-resident T cells","23_months",6,278009,2.15820351139711e-05
+"150","Colon","Prf1+ natural killer cells","03_months",105,293795,0.00035739205908882
+"151","Colon","Prf1+ natural killer cells","06_months",79,223475,0.000353507103702875
+"152","Colon","Prf1+ natural killer cells","12_months",55,266816,0.000206134564643799
+"153","Colon","Prf1+ natural killer cells","16_months",59,238145,0.00024774822062189
+"154","Colon","Prf1+ natural killer cells","23_months",44,278009,0.000158268257502455
+"155","Colon","Sema6d+ natural killer cells","03_months",215,293795,0.000731802787658061
+"156","Colon","Sema6d+ natural killer cells","06_months",102,223475,0.000456426893388522
+"157","Colon","Sema6d+ natural killer cells","12_months",117,266816,0.000438504437514992
+"158","Colon","Sema6d+ natural killer cells","16_months",111,238145,0.000466102584559827
+"159","Colon","Sema6d+ natural killer cells","23_months",108,278009,0.00038847663205148
+"160","Colon","Stab1+ double negative cells","03_months",3049,293795,0.0103779846491601
+"161","Colon","Stab1+ double negative cells","06_months",1731,223475,0.0077458328672111
+"162","Colon","Stab1+ double negative cells","12_months",1733,266816,0.00649511273686735
+"163","Colon","Stab1+ double negative cells","16_months",1882,238145,0.00790274832559995
+"164","Colon","Stab1+ double negative cells","23_months",2322,278009,0.00835224758910683
+"165","Colon","Type 2 innate lymphoid cells","03_months",1515,293795,0.00515665685256727
+"166","Colon","Type 2 innate lymphoid cells","06_months",805,223475,0.00360219263899765
+"167","Colon","Type 2 innate lymphoid cells","12_months",944,266816,0.00353801870952267
+"168","Colon","Type 2 innate lymphoid cells","16_months",936,238145,0.00393037855088287
+"169","Colon","Type 2 innate lymphoid cells","23_months",893,278009,0.00321212622612937
+"170","Colon","Type 3 innate lymphoid cells","03_months",1565,293795,0.00532684354737147
+"171","Colon","Type 3 innate lymphoid cells","06_months",1184,223475,0.00529813178207853
+"172","Colon","Type 3 innate lymphoid cells","12_months",1609,266816,0.00603037299112497
+"173","Colon","Type 3 innate lymphoid cells","16_months",1336,238145,0.00561002750425161
+"174","Colon","Type 3 innate lymphoid cells","23_months",1510,278009,0.00543147883701607
+"175","Duodenum","CD4+ Ccr9+ T helper cells","03_months",248,81355,0.00304836826255301
+"176","Duodenum","CD4+ Ccr9+ T helper cells","06_months",2298,160123,0.0143514673095058
+"177","Duodenum","CD4+ Ccr9+ T helper cells","12_months",2657,171596,0.0154840439171076
+"178","Duodenum","CD4+ Ccr9+ T helper cells","16_months",235,49556,0.00474210993623376
+"179","Duodenum","CD4+ Ccr9+ T helper cells","23_months",6733,210101,0.0320464919253121
+"180","Duodenum","CD4+ T follicular helper cells","03_months",53,81355,0.000651465798045603
+"181","Duodenum","CD4+ T follicular helper cells","06_months",248,160123,0.00154880935281003
+"182","Duodenum","CD4+ T follicular helper cells","12_months",402,171596,0.00234271195132754
+"183","Duodenum","CD4+ T follicular helper cells","16_months",63,49556,0.00127128904673501
+"184","Duodenum","CD4+ T follicular helper cells","23_months",541,210101,0.00257495204687269
+"185","Duodenum","CD4+ T regulatory cells","03_months",80,81355,0.000983344600823551
+"186","Duodenum","CD4+ T regulatory cells","06_months",299,160123,0.00186731450197661
+"187","Duodenum","CD4+ T regulatory cells","12_months",470,171596,0.00273899158488543
+"188","Duodenum","CD4+ T regulatory cells","16_months",48,49556,0.000968601178464767
+"189","Duodenum","CD4+ T regulatory cells","23_months",827,210101,0.00393620211231741
+"190","Duodenum","CD4+ memory T cells","03_months",529,81355,0.00650236617294573
+"191","Duodenum","CD4+ memory T cells","06_months",2091,160123,0.0130587111158297
+"192","Duodenum","CD4+ memory T cells","12_months",2210,171596,0.0128790880906315
+"193","Duodenum","CD4+ memory T cells","16_months",426,49556,0.00859633545887481
+"194","Duodenum","CD4+ memory T cells","23_months",2030,210101,0.00966201969528941
+"195","Duodenum","CD4+ naive T cells","03_months",93,81355,0.00114313809845738
+"196","Duodenum","CD4+ naive T cells","06_months",289,160123,0.00180486251194394
+"197","Duodenum","CD4+ naive T cells","12_months",287,171596,0.0016725331592811
+"198","Duodenum","CD4+ naive T cells","16_months",23,49556,0.000464121398014368
+"199","Duodenum","CD4+ naive T cells","23_months",179,210101,0.000851971194806307
+"200","Duodenum","CD8+ Gzmb+ cytotoxic T cells","03_months",2633,81355,0.0323643291746051
+"201","Duodenum","CD8+ Gzmb+ cytotoxic T cells","06_months",8108,160123,0.0506360735184827
+"202","Duodenum","CD8+ Gzmb+ cytotoxic T cells","12_months",10988,171596,0.0640341266696193
+"203","Duodenum","CD8+ Gzmb+ cytotoxic T cells","16_months",861,49556,0.0173742836387118
+"204","Duodenum","CD8+ Gzmb+ cytotoxic T cells","23_months",14317,210101,0.0681434167376643
+"205","Duodenum","CD8+ Gzmk+ cytotoxic T cells","03_months",10,81355,0.000122918075102944
+"206","Duodenum","CD8+ Gzmk+ cytotoxic T cells","06_months",76,160123,0.000474635124248234
+"207","Duodenum","CD8+ Gzmk+ cytotoxic T cells","12_months",99,171596,0.000576936525326931
+"208","Duodenum","CD8+ Gzmk+ cytotoxic T cells","16_months",16,49556,0.000322867059488256
+"209","Duodenum","CD8+ Gzmk+ cytotoxic T cells","23_months",568,210101,0.00270346166843566
+"210","Duodenum","CD8+ naive T cells","03_months",52,81355,0.000639173990535308
+"211","Duodenum","CD8+ naive T cells","06_months",172,160123,0.00107417422856179
+"212","Duodenum","CD8+ naive T cells","12_months",148,171596,0.000862490967155412
+"213","Duodenum","CD8+ naive T cells","16_months",47,49556,0.000948421987246751
+"214","Duodenum","CD8+ naive T cells","23_months",225,210101,0.00107091351302469
+"215","Duodenum","CD8+ tissue-resident memory T cells","03_months",8,81355,9.83344600823551e-05
+"216","Duodenum","CD8+ tissue-resident memory T cells","06_months",24,160123,0.00014988477607839
+"217","Duodenum","CD8+ tissue-resident memory T cells","12_months",12,171596,6.9931700039628e-05
+"218","Duodenum","CD8+ tissue-resident memory T cells","16_months",5,49556,0.00010089595609008
+"219","Duodenum","CD8+ tissue-resident memory T cells","23_months",17,210101,8.0913465428532e-05
+"220","Duodenum","Car1+ double negative cells","03_months",139,81355,0.00170856124393092
+"221","Duodenum","Car1+ double negative cells","06_months",232,160123,0.00144888616875777
+"222","Duodenum","Car1+ double negative cells","12_months",333,171596,0.00194060467609968
+"223","Duodenum","Car1+ double negative cells","16_months",48,49556,0.000968601178464767
+"224","Duodenum","Car1+ double negative cells","23_months",269,210101,0.00128033660001618
+"225","Duodenum","Epb41l3+ double negative cells","03_months",1779,81355,0.0218671255608137
+"226","Duodenum","Epb41l3+ double negative cells","06_months",4703,160123,0.0293711709123611
+"227","Duodenum","Epb41l3+ double negative cells","12_months",3534,171596,0.0205948856616704
+"228","Duodenum","Epb41l3+ double negative cells","16_months",1102,49556,0.0222374687222536
+"229","Duodenum","Epb41l3+ double negative cells","23_months",4562,210101,0.0217133664285272
+"230","Duodenum","Gammadelta T cells","03_months",47,81355,0.000577714952983836
+"231","Duodenum","Gammadelta T cells","06_months",168,160123,0.00104919343254873
+"232","Duodenum","Gammadelta T cells","12_months",254,171596,0.00148022098417213
+"233","Duodenum","Gammadelta T cells","16_months",36,49556,0.000726450883848575
+"234","Duodenum","Gammadelta T cells","23_months",746,210101,0.00355067324762852
+"235","Duodenum","Liver-resident T cells","03_months",9,81355,0.00011062626759265
+"236","Duodenum","Liver-resident T cells","06_months",14,160123,8.74327860457273e-05
+"237","Duodenum","Liver-resident T cells","12_months",20,171596,0.00011655283339938
+"238","Duodenum","Liver-resident T cells","16_months",6,49556,0.000121075147308096
+"239","Duodenum","Liver-resident T cells","23_months",35,210101,0.000166586546470507
+"240","Duodenum","Prf1+ natural killer cells","03_months",22,81355,0.000270419765226477
+"241","Duodenum","Prf1+ natural killer cells","06_months",33,160123,0.000206091567107786
+"242","Duodenum","Prf1+ natural killer cells","12_months",42,171596,0.000244760950138698
+"243","Duodenum","Prf1+ natural killer cells","16_months",6,49556,0.000121075147308096
+"244","Duodenum","Prf1+ natural killer cells","23_months",73,210101,0.000347451939781343
+"245","Duodenum","Sema6d+ natural killer cells","03_months",20,81355,0.000245836150205888
+"246","Duodenum","Sema6d+ natural killer cells","06_months",58,160123,0.000362221542189442
+"247","Duodenum","Sema6d+ natural killer cells","12_months",83,171596,0.000483694258607427
+"248","Duodenum","Sema6d+ natural killer cells","16_months",8,49556,0.000161433529744128
+"249","Duodenum","Sema6d+ natural killer cells","23_months",117,210101,0.000556875026772838
+"250","Duodenum","Stab1+ double negative cells","03_months",287,81355,0.00352774875545449
+"251","Duodenum","Stab1+ double negative cells","06_months",1001,160123,0.00625144420226951
+"252","Duodenum","Stab1+ double negative cells","12_months",441,171596,0.00256998997645633
+"253","Duodenum","Stab1+ double negative cells","16_months",200,49556,0.0040358382436032
+"254","Duodenum","Stab1+ double negative cells","23_months",938,210101,0.00446451944540959
+"255","Duodenum","Type 2 innate lymphoid cells","03_months",141,81355,0.00173314485895151
+"256","Duodenum","Type 2 innate lymphoid cells","06_months",229,160123,0.00143015057174797
+"257","Duodenum","Type 2 innate lymphoid cells","12_months",389,171596,0.00226695260961794
+"258","Duodenum","Type 2 innate lymphoid cells","16_months",51,49556,0.00102913875211882
+"259","Duodenum","Type 2 innate lymphoid cells","23_months",861,210101,0.00409802904317447
+"260","Duodenum","Type 3 innate lymphoid cells","03_months",437,81355,0.00537151988199865
+"261","Duodenum","Type 3 innate lymphoid cells","06_months",1000,160123,0.00624519900326624
+"262","Duodenum","Type 3 innate lymphoid cells","12_months",1755,171596,0.0102275111307956
+"263","Duodenum","Type 3 innate lymphoid cells","16_months",133,49556,0.00268383243199613
+"264","Duodenum","Type 3 innate lymphoid cells","23_months",2457,210101,0.0116943755622296
+"265","Heart","CD4+ Ccr9+ T helper cells","06_months",10,455194,2.19686551228707e-05
+"266","Heart","CD4+ Ccr9+ T helper cells","12_months",23,440427,5.22220481487284e-05
+"267","Heart","CD4+ Ccr9+ T helper cells","16_months",5,219168,2.28135494232735e-05
+"268","Heart","CD4+ Ccr9+ T helper cells","23_months",13,407754,3.18819680493631e-05
+"269","Heart","CD4+ T follicular helper cells","03_months",9,154415,5.82844930868115e-05
+"270","Heart","CD4+ T follicular helper cells","06_months",34,455194,7.46934274177603e-05
+"271","Heart","CD4+ T follicular helper cells","12_months",85,440427,0.00019299452576704
+"272","Heart","CD4+ T follicular helper cells","16_months",37,219168,0.000168820265732224
+"273","Heart","CD4+ T follicular helper cells","23_months",56,407754,0.000137337708520333
+"274","Heart","CD4+ T regulatory cells","03_months",8,154415,5.1808438299388e-05
+"275","Heart","CD4+ T regulatory cells","06_months",49,455194,0.000107646410102066
+"276","Heart","CD4+ T regulatory cells","12_months",59,440427,0.000133960906120651
+"277","Heart","CD4+ T regulatory cells","16_months",18,219168,8.21287779237845e-05
+"278","Heart","CD4+ T regulatory cells","23_months",35,407754,8.58360678252083e-05
+"279","Heart","CD4+ memory T cells","03_months",47,154415,0.000304374575008905
+"280","Heart","CD4+ memory T cells","06_months",191,455194,0.00041960131284683
+"281","Heart","CD4+ memory T cells","12_months",346,440427,0.000785601246063479
+"282","Heart","CD4+ memory T cells","16_months",129,219168,0.000588589575120456
+"283","Heart","CD4+ memory T cells","23_months",218,407754,0.000534636079597012
+"284","Heart","CD4+ naive T cells","03_months",765,154415,0.00495418191237898
+"285","Heart","CD4+ naive T cells","06_months",2690,455194,0.00590956822805221
+"286","Heart","CD4+ naive T cells","12_months",1576,440427,0.00357834556010417
+"287","Heart","CD4+ naive T cells","16_months",512,219168,0.0023361074609432
+"288","Heart","CD4+ naive T cells","23_months",483,407754,0.00118453773598788
+"289","Heart","CD8+ Gzmb+ cytotoxic T cells","03_months",1,154415,6.4760547874235e-06
+"290","Heart","CD8+ Gzmb+ cytotoxic T cells","06_months",4,455194,8.78746204914827e-06
+"291","Heart","CD8+ Gzmb+ cytotoxic T cells","12_months",4,440427,9.08209533021363e-06
+"292","Heart","CD8+ Gzmb+ cytotoxic T cells","23_months",5,407754,1.22622954036012e-05
+"293","Heart","CD8+ Gzmk+ cytotoxic T cells","03_months",4,154415,2.5904219149694e-05
+"294","Heart","CD8+ Gzmk+ cytotoxic T cells","06_months",44,455194,9.6662082540631e-05
+"295","Heart","CD8+ Gzmk+ cytotoxic T cells","12_months",188,440427,0.000426858480520041
+"296","Heart","CD8+ Gzmk+ cytotoxic T cells","16_months",92,219168,0.000419769309388232
+"297","Heart","CD8+ Gzmk+ cytotoxic T cells","23_months",178,407754,0.000436537716368202
+"298","Heart","CD8+ naive T cells","03_months",23,154415,0.000148949260110741
+"299","Heart","CD8+ naive T cells","06_months",76,455194,0.000166961778933817
+"300","Heart","CD8+ naive T cells","12_months",129,440427,0.00029289757439939
+"301","Heart","CD8+ naive T cells","16_months",41,219168,0.000187071105270842
+"302","Heart","CD8+ naive T cells","23_months",128,407754,0.00031391476233219
+"303","Heart","CD8+ tissue-resident memory T cells","03_months",13,154415,8.41887122365055e-05
+"304","Heart","CD8+ tissue-resident memory T cells","06_months",52,455194,0.000114237006638928
+"305","Heart","CD8+ tissue-resident memory T cells","12_months",84,440427,0.000190724001934486
+"306","Heart","CD8+ tissue-resident memory T cells","16_months",29,219168,0.000132318586654986
+"307","Heart","CD8+ tissue-resident memory T cells","23_months",39,407754,9.56459041480893e-05
+"308","Heart","Car1+ double negative cells","12_months",1,440427,2.27052383255341e-06
+"309","Heart","Car1+ double negative cells","16_months",1,219168,4.56270988465469e-06
+"310","Heart","Epb41l3+ double negative cells","03_months",2,154415,1.2952109574847e-05
+"311","Heart","Epb41l3+ double negative cells","06_months",2,455194,4.39373102457414e-06
+"312","Heart","Epb41l3+ double negative cells","12_months",2,440427,4.54104766510682e-06
+"313","Heart","Gammadelta T cells","03_months",150,154415,0.000971408218113525
+"314","Heart","Gammadelta T cells","06_months",756,455194,0.00166083032728902
+"315","Heart","Gammadelta T cells","12_months",1958,440427,0.00444568566413957
+"316","Heart","Gammadelta T cells","16_months",1163,219168,0.00530643159585341
+"317","Heart","Gammadelta T cells","23_months",2220,407754,0.00544445915919893
+"318","Heart","Liver-resident T cells","03_months",2,154415,1.2952109574847e-05
+"319","Heart","Liver-resident T cells","06_months",2,455194,4.39373102457414e-06
+"320","Heart","Liver-resident T cells","12_months",8,440427,1.81641906604273e-05
+"321","Heart","Liver-resident T cells","16_months",5,219168,2.28135494232735e-05
+"322","Heart","Liver-resident T cells","23_months",6,407754,1.47147544843214e-05
+"323","Heart","Prf1+ natural killer cells","03_months",66,154415,0.000427419615969951
+"324","Heart","Prf1+ natural killer cells","06_months",165,455194,0.000362482809527366
+"325","Heart","Prf1+ natural killer cells","12_months",144,440427,0.000326955431887691
+"326","Heart","Prf1+ natural killer cells","16_months",42,219168,0.000191633815155497
+"327","Heart","Prf1+ natural killer cells","23_months",79,407754,0.000193744267376899
+"328","Heart","Sema6d+ natural killer cells","03_months",519,154415,0.0033610724346728
+"329","Heart","Sema6d+ natural killer cells","06_months",1855,455194,0.00407518552529251
+"330","Heart","Sema6d+ natural killer cells","12_months",3249,440427,0.00737693193196602
+"331","Heart","Sema6d+ natural killer cells","16_months",1172,219168,0.0053474959848153
+"332","Heart","Sema6d+ natural killer cells","23_months",1691,407754,0.00414710830549792
+"333","Heart","Stab1+ double negative cells","03_months",6,154415,3.8856328724541e-05
+"334","Heart","Stab1+ double negative cells","06_months",21,455194,4.61341757580284e-05
+"335","Heart","Stab1+ double negative cells","12_months",37,440427,8.40093818044761e-05
+"336","Heart","Stab1+ double negative cells","16_months",19,219168,8.66914878084392e-05
+"337","Heart","Stab1+ double negative cells","23_months",50,407754,0.000122622954036012
+"338","Heart","Type 2 innate lymphoid cells","03_months",370,154415,0.0023961402713467
+"339","Heart","Type 2 innate lymphoid cells","06_months",1220,455194,0.00268017592499022
+"340","Heart","Type 2 innate lymphoid cells","12_months",1587,440427,0.00360332132226226
+"341","Heart","Type 2 innate lymphoid cells","16_months",652,219168,0.00297488684479486
+"342","Heart","Type 2 innate lymphoid cells","23_months",913,407754,0.00223909514069758
+"343","Heart","Type 3 innate lymphoid cells","12_months",1,440427,2.27052383255341e-06
+"344","Heart","Type 3 innate lymphoid cells","16_months",2,219168,9.12541976930939e-06
+"345","Heart","Type 3 innate lymphoid cells","23_months",2,407754,4.90491816144048e-06
+"346","Ileum","CD4+ Ccr9+ T helper cells","03_months",1425,265701,0.00536317138437567
+"347","Ileum","CD4+ Ccr9+ T helper cells","06_months",6222,229323,0.0271320364725736
+"348","Ileum","CD4+ Ccr9+ T helper cells","12_months",4398,213291,0.0206197167250376
+"349","Ileum","CD4+ Ccr9+ T helper cells","16_months",4161,196022,0.0212272091908051
+"350","Ileum","CD4+ Ccr9+ T helper cells","23_months",7433,259987,0.0285898910330132
+"351","Ileum","CD4+ T follicular helper cells","03_months",1191,265701,0.00448248218862556
+"352","Ileum","CD4+ T follicular helper cells","06_months",2969,229323,0.0129468042891467
+"353","Ileum","CD4+ T follicular helper cells","12_months",3021,213291,0.0141637481187673
+"354","Ileum","CD4+ T follicular helper cells","16_months",4156,196022,0.0212017018497924
+"355","Ileum","CD4+ T follicular helper cells","23_months",4150,259987,0.0159623365783674
+"356","Ileum","CD4+ T regulatory cells","03_months",1039,265701,0.00391041057429216
+"357","Ileum","CD4+ T regulatory cells","06_months",1674,229323,0.00729974751769338
+"358","Ileum","CD4+ T regulatory cells","12_months",1645,213291,0.00771246794285741
+"359","Ileum","CD4+ T regulatory cells","16_months",2046,196022,0.0104376039424146
+"360","Ileum","CD4+ T regulatory cells","23_months",2077,259987,0.00798886098151061
+"361","Ileum","CD4+ memory T cells","03_months",926,265701,0.00348512049258377
+"362","Ileum","CD4+ memory T cells","06_months",1196,229323,0.00521535127309515
+"363","Ileum","CD4+ memory T cells","12_months",1261,213291,0.00591211068446395
+"364","Ileum","CD4+ memory T cells","16_months",1274,196022,0.00649927049004704
+"365","Ileum","CD4+ memory T cells","23_months",956,259987,0.00367710693226969
+"366","Ileum","CD4+ naive T cells","03_months",4103,265701,0.0154421699579603
+"367","Ileum","CD4+ naive T cells","06_months",3843,229323,0.0167580225271778
+"368","Ileum","CD4+ naive T cells","12_months",2275,213291,0.0106661790699092
+"369","Ileum","CD4+ naive T cells","16_months",1278,196022,0.00651967636285723
+"370","Ileum","CD4+ naive T cells","23_months",677,259987,0.00260397635266379
+"371","Ileum","CD8+ Gzmb+ cytotoxic T cells","03_months",1871,265701,0.00704174993695921
+"372","Ileum","CD8+ Gzmb+ cytotoxic T cells","06_months",4025,229323,0.017551662938301
+"373","Ileum","CD8+ Gzmb+ cytotoxic T cells","12_months",3484,213291,0.0163344913756324
+"374","Ileum","CD8+ Gzmb+ cytotoxic T cells","16_months",2716,196022,0.0138555876381223
+"375","Ileum","CD8+ Gzmb+ cytotoxic T cells","23_months",5144,259987,0.0197856046648486
+"376","Ileum","CD8+ Gzmk+ cytotoxic T cells","03_months",140,265701,0.000526908065833399
+"377","Ileum","CD8+ Gzmk+ cytotoxic T cells","06_months",307,229323,0.00133872311107041
+"378","Ileum","CD8+ Gzmk+ cytotoxic T cells","12_months",476,213291,0.00223169285155023
+"379","Ileum","CD8+ Gzmk+ cytotoxic T cells","16_months",930,196022,0.00474436542837028
+"380","Ileum","CD8+ Gzmk+ cytotoxic T cells","23_months",1614,259987,0.0062080027078277
+"381","Ileum","CD8+ naive T cells","03_months",136,265701,0.000511853549666731
+"382","Ileum","CD8+ naive T cells","06_months",173,229323,0.000754394456726975
+"383","Ileum","CD8+ naive T cells","12_months",188,213291,0.000881424907755133
+"384","Ileum","CD8+ naive T cells","16_months",168,196022,0.000857046658028181
+"385","Ileum","CD8+ naive T cells","23_months",195,259987,0.000750037501875094
+"386","Ileum","CD8+ tissue-resident memory T cells","03_months",23,265701,8.65634679583442e-05
+"387","Ileum","CD8+ tissue-resident memory T cells","06_months",23,229323,0.000100295216790291
+"388","Ileum","CD8+ tissue-resident memory T cells","12_months",18,213291,8.43917464871936e-05
+"389","Ileum","CD8+ tissue-resident memory T cells","16_months",17,196022,8.67249594433278e-05
+"390","Ileum","CD8+ tissue-resident memory T cells","23_months",14,259987,5.38488462884683e-05
+"391","Ileum","Car1+ double negative cells","03_months",1651,265701,0.00621375154779244
+"392","Ileum","Car1+ double negative cells","06_months",804,229323,0.00350597192606062
+"393","Ileum","Car1+ double negative cells","12_months",874,213291,0.00409768813498929
+"394","Ileum","Car1+ double negative cells","16_months",842,196022,0.004295436226546
+"395","Ileum","Car1+ double negative cells","23_months",995,259987,0.00382711443264471
+"396","Ileum","Epb41l3+ double negative cells","03_months",1373,265701,0.00516746267420898
+"397","Ileum","Epb41l3+ double negative cells","06_months",1214,229323,0.00529384318188756
+"398","Ileum","Epb41l3+ double negative cells","12_months",1476,213291,0.00692012321194987
+"399","Ileum","Epb41l3+ double negative cells","16_months",1301,196022,0.00663701013151585
+"400","Ileum","Epb41l3+ double negative cells","23_months",1837,259987,0.00706573790227973
+"401","Ileum","Gammadelta T cells","03_months",386,265701,0.00145276081008352
+"402","Ileum","Gammadelta T cells","06_months",1391,229323,0.00606568028501284
+"403","Ileum","Gammadelta T cells","12_months",1210,213291,0.00567300073608357
+"404","Ileum","Gammadelta T cells","16_months",1332,196022,0.00679515564579486
+"405","Ileum","Gammadelta T cells","23_months",2939,259987,0.0113044113744149
+"406","Ileum","Liver-resident T cells","03_months",14,265701,5.26908065833399e-05
+"407","Ileum","Liver-resident T cells","06_months",17,229323,7.41312471928241e-05
+"408","Ileum","Liver-resident T cells","12_months",5,213291,2.34421518019982e-05
+"409","Ileum","Liver-resident T cells","16_months",14,196022,7.14205548356817e-05
+"410","Ileum","Liver-resident T cells","23_months",10,259987,3.84634616346202e-05
+"411","Ileum","Prf1+ natural killer cells","03_months",102,265701,0.000383890162250048
+"412","Ileum","Prf1+ natural killer cells","06_months",136,229323,0.000593049977542593
+"413","Ileum","Prf1+ natural killer cells","12_months",70,213291,0.000328190125227975
+"414","Ileum","Prf1+ natural killer cells","16_months",99,196022,0.000505045352052321
+"415","Ileum","Prf1+ natural killer cells","23_months",107,259987,0.000411559039490436
+"416","Ileum","Sema6d+ natural killer cells","03_months",212,265701,0.000797889356833433
+"417","Ileum","Sema6d+ natural killer cells","06_months",217,229323,0.000946263567108402
+"418","Ileum","Sema6d+ natural killer cells","12_months",157,213291,0.000736083566582744
+"419","Ileum","Sema6d+ natural killer cells","16_months",145,196022,0.000739712889369561
+"420","Ileum","Sema6d+ natural killer cells","23_months",138,259987,0.000530795770557759
+"421","Ileum","Stab1+ double negative cells","03_months",325,265701,0.00122317943854182
+"422","Ileum","Stab1+ double negative cells","06_months",211,229323,0.000920099597510934
+"423","Ileum","Stab1+ double negative cells","12_months",248,213291,0.00116273072937911
+"424","Ileum","Stab1+ double negative cells","16_months",276,196022,0.00140800522390344
+"425","Ileum","Stab1+ double negative cells","23_months",313,259987,0.00120390634916361
+"426","Ileum","Type 2 innate lymphoid cells","03_months",1249,265701,0.00470077267304225
+"427","Ileum","Type 2 innate lymphoid cells","06_months",1139,229323,0.00496679356191921
+"428","Ileum","Type 2 innate lymphoid cells","12_months",1626,213291,0.00762338776600982
+"429","Ileum","Type 2 innate lymphoid cells","16_months",2124,196022,0.0108355184622134
+"430","Ileum","Type 2 innate lymphoid cells","23_months",2085,259987,0.00801963175081831
+"431","Ileum","Type 3 innate lymphoid cells","03_months",4014,265701,0.0151072069732519
+"432","Ileum","Type 3 innate lymphoid cells","06_months",3736,229323,0.016291431736023
+"433","Ileum","Type 3 innate lymphoid cells","12_months",2448,213291,0.0114772775222583
+"434","Ileum","Type 3 innate lymphoid cells","16_months",2654,196022,0.0135392966095642
+"435","Ileum","Type 3 innate lymphoid cells","23_months",3452,259987,0.0132775869562709
+"436","Jejunum","CD4+ Ccr9+ T helper cells","03_months",298,91535,0.00325558529524226
+"437","Jejunum","CD4+ Ccr9+ T helper cells","06_months",6196,251308,0.024655005013768
+"438","Jejunum","CD4+ Ccr9+ T helper cells","12_months",8034,282326,0.0284564652210565
+"439","Jejunum","CD4+ Ccr9+ T helper cells","16_months",2182,119677,0.0182324089006242
+"440","Jejunum","CD4+ Ccr9+ T helper cells","23_months",6043,263504,0.0229332382051126
+"441","Jejunum","CD4+ T follicular helper cells","03_months",137,91535,0.00149669525318184
+"442","Jejunum","CD4+ T follicular helper cells","06_months",905,251308,0.00360115873748548
+"443","Jejunum","CD4+ T follicular helper cells","12_months",1972,282326,0.00698483313616174
+"444","Jejunum","CD4+ T follicular helper cells","16_months",476,119677,0.00397737242745055
+"445","Jejunum","CD4+ T follicular helper cells","23_months",1418,263504,0.00538132248466816
+"446","Jejunum","CD4+ T regulatory cells","03_months",87,91535,0.00095045610968482
+"447","Jejunum","CD4+ T regulatory cells","06_months",855,251308,0.00340219969121556
+"448","Jejunum","CD4+ T regulatory cells","12_months",1683,282326,0.00596119379724149
+"449","Jejunum","CD4+ T regulatory cells","16_months",462,119677,0.00386039088546671
+"450","Jejunum","CD4+ T regulatory cells","23_months",1229,263504,0.0046640658206327
+"451","Jejunum","CD4+ memory T cells","03_months",531,91535,0.00580105970393838
+"452","Jejunum","CD4+ memory T cells","06_months",1377,251308,0.00547933213427348
+"453","Jejunum","CD4+ memory T cells","12_months",1708,282326,0.00604974391306504
+"454","Jejunum","CD4+ memory T cells","16_months",678,119677,0.00566524896178881
+"455","Jejunum","CD4+ memory T cells","23_months",2201,263504,0.00835281437852936
+"456","Jejunum","CD4+ naive T cells","03_months",147,91535,0.00160594308188125
+"457","Jejunum","CD4+ naive T cells","06_months",1560,251308,0.00620752224362137
+"458","Jejunum","CD4+ naive T cells","12_months",1505,282326,0.0053307169725778
+"459","Jejunum","CD4+ naive T cells","16_months",222,119677,0.0018549930228866
+"460","Jejunum","CD4+ naive T cells","23_months",376,263504,0.00142692331046208
+"461","Jejunum","CD8+ Gzmb+ cytotoxic T cells","03_months",1624,91535,0.0177418473807833
+"462","Jejunum","CD8+ Gzmb+ cytotoxic T cells","06_months",11467,251308,0.0456292676715425
+"463","Jejunum","CD8+ Gzmb+ cytotoxic T cells","12_months",24589,282326,0.0870943519194123
+"464","Jejunum","CD8+ Gzmb+ cytotoxic T cells","16_months",3631,119677,0.0303399984959516
+"465","Jejunum","CD8+ Gzmb+ cytotoxic T cells","23_months",9176,263504,0.0348230007893618
+"466","Jejunum","CD8+ Gzmk+ cytotoxic T cells","03_months",9,91535,9.83230458294641e-05
+"467","Jejunum","CD8+ Gzmk+ cytotoxic T cells","06_months",115,251308,0.000457605806420806
+"468","Jejunum","CD8+ Gzmk+ cytotoxic T cells","12_months",415,282326,0.00146993192267095
+"469","Jejunum","CD8+ Gzmk+ cytotoxic T cells","16_months",160,119677,0.00133693190838674
+"470","Jejunum","CD8+ Gzmk+ cytotoxic T cells","23_months",1044,263504,0.00396198919181493
+"471","Jejunum","CD8+ naive T cells","03_months",78,91535,0.000852133063855356
+"472","Jejunum","CD8+ naive T cells","06_months",141,251308,0.000561064510481163
+"473","Jejunum","CD8+ naive T cells","12_months",207,282326,0.000733194959019006
+"474","Jejunum","CD8+ naive T cells","16_months",61,119677,0.000509705290072445
+"475","Jejunum","CD8+ naive T cells","23_months",196,263504,0.000743821725666404
+"476","Jejunum","CD8+ tissue-resident memory T cells","03_months",8,91535,8.73982629595237e-05
+"477","Jejunum","CD8+ tissue-resident memory T cells","06_months",10,251308,3.97918092539832e-05
+"478","Jejunum","CD8+ tissue-resident memory T cells","12_months",24,282326,8.50081111906094e-05
+"479","Jejunum","CD8+ tissue-resident memory T cells","16_months",5,119677,4.17791221370857e-05
+"480","Jejunum","CD8+ tissue-resident memory T cells","23_months",17,263504,6.45151496751473e-05
+"481","Jejunum","Car1+ double negative cells","03_months",266,91535,0.00290599224340416
+"482","Jejunum","Car1+ double negative cells","06_months",666,251308,0.00265013449631528
+"483","Jejunum","Car1+ double negative cells","12_months",630,282326,0.0022314629187535
+"484","Jejunum","Car1+ double negative cells","16_months",220,119677,0.00183828137403177
+"485","Jejunum","Car1+ double negative cells","23_months",654,263504,0.00248193575809096
+"486","Jejunum","Epb41l3+ double negative cells","03_months",2331,91535,0.0254656688698312
+"487","Jejunum","Epb41l3+ double negative cells","06_months",2685,251308,0.0106841007846945
+"488","Jejunum","Epb41l3+ double negative cells","12_months",2936,282326,0.0103993256023179
+"489","Jejunum","Epb41l3+ double negative cells","16_months",1586,119677,0.0132523375418836
+"490","Jejunum","Epb41l3+ double negative cells","23_months",4484,263504,0.0170168194790212
+"491","Jejunum","Gammadelta T cells","03_months",44,91535,0.00048069044627738
+"492","Jejunum","Gammadelta T cells","06_months",612,251308,0.00243525872634377
+"493","Jejunum","Gammadelta T cells","12_months",933,282326,0.00330469032253494
+"494","Jejunum","Gammadelta T cells","16_months",429,119677,0.00358464867936195
+"495","Jejunum","Gammadelta T cells","23_months",1488,263504,0.00564697310097759
+"496","Jejunum","Liver-resident T cells","03_months",10,91535,0.000109247828699405
+"497","Jejunum","Liver-resident T cells","06_months",20,251308,7.95836185079663e-05
+"498","Jejunum","Liver-resident T cells","12_months",19,282326,6.72980880258991e-05
+"499","Jejunum","Liver-resident T cells","16_months",7,119677,5.84907709919199e-05
+"500","Jejunum","Liver-resident T cells","23_months",47,263504,0.00017836541380776
+"501","Jejunum","Prf1+ natural killer cells","03_months",13,91535,0.000142022177309226
+"502","Jejunum","Prf1+ natural killer cells","06_months",113,251308,0.00044964744457001
+"503","Jejunum","Prf1+ natural killer cells","12_months",132,282326,0.000467544611548352
+"504","Jejunum","Prf1+ natural killer cells","16_months",28,119677,0.00023396308396768
+"505","Jejunum","Prf1+ natural killer cells","23_months",126,263504,0.000478171109356974
+"506","Jejunum","Sema6d+ natural killer cells","03_months",18,91535,0.000196646091658928
+"507","Jejunum","Sema6d+ natural killer cells","06_months",162,251308,0.000644627309914527
+"508","Jejunum","Sema6d+ natural killer cells","12_months",240,282326,0.000850081111906094
+"509","Jejunum","Sema6d+ natural killer cells","16_months",52,119677,0.000434502870225691
+"510","Jejunum","Sema6d+ natural killer cells","23_months",129,263504,0.000489556135770235
+"511","Jejunum","Stab1+ double negative cells","03_months",238,91535,0.00260009832304583
+"512","Jejunum","Stab1+ double negative cells","06_months",269,251308,0.00107039966893215
+"513","Jejunum","Stab1+ double negative cells","12_months",302,282326,0.0010696853991485
+"514","Jejunum","Stab1+ double negative cells","16_months",163,119677,0.00136199938166899
+"515","Jejunum","Stab1+ double negative cells","23_months",518,263504,0.00196581456068978
+"516","Jejunum","Type 2 innate lymphoid cells","03_months",114,91535,0.00124542524717321
+"517","Jejunum","Type 2 innate lymphoid cells","06_months",749,251308,0.00298040651312334
+"518","Jejunum","Type 2 innate lymphoid cells","12_months",1467,282326,0.005196120796526
+"519","Jejunum","Type 2 innate lymphoid cells","16_months",696,119677,0.00581565380148232
+"520","Jejunum","Type 2 innate lymphoid cells","23_months",1519,263504,0.00576461837391463
+"521","Jejunum","Type 3 innate lymphoid cells","03_months",300,91535,0.00327743486098214
+"522","Jejunum","Type 3 innate lymphoid cells","06_months",3247,251308,0.0129204004647683
+"523","Jejunum","Type 3 innate lymphoid cells","12_months",5852,282326,0.0207278111119769
+"524","Jejunum","Type 3 innate lymphoid cells","16_months",1764,119677,0.0147396742899638
+"525","Jejunum","Type 3 innate lymphoid cells","23_months",3854,263504,0.0146259639322363
+"526","Kidney","CD4+ Ccr9+ T helper cells","03_months",12,303739,3.95076035675366e-05
+"527","Kidney","CD4+ Ccr9+ T helper cells","06_months",38,586006,6.48457524325689e-05
+"528","Kidney","CD4+ Ccr9+ T helper cells","12_months",60,612711,9.79254493554057e-05
+"529","Kidney","CD4+ Ccr9+ T helper cells","16_months",135,323182,0.0004177212839824
+"530","Kidney","CD4+ Ccr9+ T helper cells","23_months",212,606247,0.000349692452086361
+"531","Kidney","CD4+ T follicular helper cells","03_months",35,303739,0.000115230510405315
+"532","Kidney","CD4+ T follicular helper cells","06_months",125,586006,0.000213308396159766
+"533","Kidney","CD4+ T follicular helper cells","12_months",320,612711,0.000522269063228831
+"534","Kidney","CD4+ T follicular helper cells","16_months",716,323182,0.00221546992097332
+"535","Kidney","CD4+ T follicular helper cells","23_months",869,606247,0.00143340915501438
+"536","Kidney","CD4+ T regulatory cells","03_months",46,303739,0.000151445813675557
+"537","Kidney","CD4+ T regulatory cells","06_months",86,586006,0.000146756176557919
+"538","Kidney","CD4+ T regulatory cells","12_months",244,612711,0.000398230160711983
+"539","Kidney","CD4+ T regulatory cells","16_months",428,323182,0.00132433118181087
+"540","Kidney","CD4+ T regulatory cells","23_months",618,606247,0.00101938648768571
+"541","Kidney","CD4+ memory T cells","03_months",406,303739,0.00133667392070166
+"542","Kidney","CD4+ memory T cells","06_months",891,586006,0.00152046224782681
+"543","Kidney","CD4+ memory T cells","12_months",1189,612711,0.00194055598805962
+"544","Kidney","CD4+ memory T cells","16_months",1321,323182,0.00408748011956111
+"545","Kidney","CD4+ memory T cells","23_months",2475,606247,0.00408249442883841
+"546","Kidney","CD4+ naive T cells","03_months",114,303739,0.000375322233891598
+"547","Kidney","CD4+ naive T cells","06_months",313,586006,0.000534124223984055
+"548","Kidney","CD4+ naive T cells","12_months",393,612711,0.000641411693277908
+"549","Kidney","CD4+ naive T cells","16_months",415,323182,0.00128410616927923
+"550","Kidney","CD4+ naive T cells","23_months",202,606247,0.000333197525101155
+"551","Kidney","CD8+ Gzmb+ cytotoxic T cells","03_months",7,303739,2.3046102081063e-05
+"552","Kidney","CD8+ Gzmb+ cytotoxic T cells","06_months",7,586006,1.19452701849469e-05
+"553","Kidney","CD8+ Gzmb+ cytotoxic T cells","12_months",9,612711,1.46888174033109e-05
+"554","Kidney","CD8+ Gzmb+ cytotoxic T cells","16_months",14,323182,4.33192442648415e-05
+"555","Kidney","CD8+ Gzmb+ cytotoxic T cells","23_months",19,606247,3.13403612718908e-05
+"556","Kidney","CD8+ Gzmk+ cytotoxic T cells","03_months",83,303739,0.000273260924675462
+"557","Kidney","CD8+ Gzmk+ cytotoxic T cells","06_months",160,586006,0.000273034747084501
+"558","Kidney","CD8+ Gzmk+ cytotoxic T cells","12_months",420,612711,0.00068547814548784
+"559","Kidney","CD8+ Gzmk+ cytotoxic T cells","16_months",686,323182,0.00212264296897723
+"560","Kidney","CD8+ Gzmk+ cytotoxic T cells","23_months",1172,606247,0.00193320544266611
+"561","Kidney","CD8+ naive T cells","03_months",36,303739,0.00011852281070261
+"562","Kidney","CD8+ naive T cells","06_months",88,586006,0.000150169110896475
+"563","Kidney","CD8+ naive T cells","12_months",172,612711,0.000280719621485496
+"564","Kidney","CD8+ naive T cells","16_months",202,323182,0.000625034810106999
+"565","Kidney","CD8+ naive T cells","23_months",366,606247,0.000603714327658529
+"566","Kidney","CD8+ tissue-resident memory T cells","03_months",13,303739,4.27999038648313e-05
+"567","Kidney","CD8+ tissue-resident memory T cells","06_months",39,586006,6.65522196018471e-05
+"568","Kidney","CD8+ tissue-resident memory T cells","12_months",57,612711,9.30291768876354e-05
+"569","Kidney","CD8+ tissue-resident memory T cells","16_months",53,323182,0.000163994281859757
+"570","Kidney","CD8+ tissue-resident memory T cells","23_months",79,606247,0.000130309923183125
+"571","Kidney","Car1+ double negative cells","03_months",1,303739,3.29230029729472e-06
+"572","Kidney","Car1+ double negative cells","06_months",1,586006,1.70646716927813e-06
+"573","Kidney","Car1+ double negative cells","12_months",2,612711,3.26418164518019e-06
+"574","Kidney","Car1+ double negative cells","16_months",2,323182,6.18846346640593e-06
+"575","Kidney","Car1+ double negative cells","23_months",7,606247,1.1546448889644e-05
+"576","Kidney","Epb41l3+ double negative cells","03_months",1,303739,3.29230029729472e-06
+"577","Kidney","Epb41l3+ double negative cells","06_months",9,586006,1.53582045235032e-05
+"578","Kidney","Epb41l3+ double negative cells","12_months",11,612711,1.79529990484911e-05
+"579","Kidney","Epb41l3+ double negative cells","16_months",16,323182,4.95077077312474e-05
+"580","Kidney","Epb41l3+ double negative cells","23_months",24,606247,3.95878247644937e-05
+"581","Kidney","Gammadelta T cells","03_months",11,303739,3.62153032702419e-05
+"582","Kidney","Gammadelta T cells","06_months",51,586006,8.70298256331846e-05
+"583","Kidney","Gammadelta T cells","12_months",102,612711,0.00016647326390419
+"584","Kidney","Gammadelta T cells","16_months",181,323182,0.000560055943709736
+"585","Kidney","Gammadelta T cells","23_months",666,606247,0.0010985621372147
+"586","Kidney","Liver-resident T cells","03_months",2,303739,6.58460059458943e-06
+"587","Kidney","Liver-resident T cells","06_months",6,586006,1.02388030156688e-05
+"588","Kidney","Liver-resident T cells","12_months",9,612711,1.46888174033109e-05
+"589","Kidney","Liver-resident T cells","16_months",14,323182,4.33192442648415e-05
+"590","Kidney","Liver-resident T cells","23_months",32,606247,5.27837663526582e-05
+"591","Kidney","Prf1+ natural killer cells","03_months",84,303739,0.000276553224972756
+"592","Kidney","Prf1+ natural killer cells","06_months",165,586006,0.000281567082930891
+"593","Kidney","Prf1+ natural killer cells","12_months",149,612711,0.000243181532565924
+"594","Kidney","Prf1+ natural killer cells","16_months",132,323182,0.000408438588782791
+"595","Kidney","Prf1+ natural killer cells","23_months",218,606247,0.000359589408277484
+"596","Kidney","Sema6d+ natural killer cells","03_months",40,303739,0.000131692011891789
+"597","Kidney","Sema6d+ natural killer cells","06_months",97,586006,0.000165527315419979
+"598","Kidney","Sema6d+ natural killer cells","12_months",124,612711,0.000202379262001172
+"599","Kidney","Sema6d+ natural killer cells","16_months",105,323182,0.000324894331986311
+"600","Kidney","Sema6d+ natural killer cells","23_months",260,606247,0.000428868101615348
+"601","Kidney","Stab1+ double negative cells","03_months",22,303739,7.24306065404838e-05
+"602","Kidney","Stab1+ double negative cells","06_months",34,586006,5.80198837554564e-05
+"603","Kidney","Stab1+ double negative cells","12_months",44,612711,7.18119961939642e-05
+"604","Kidney","Stab1+ double negative cells","16_months",47,323182,0.000145428891460539
+"605","Kidney","Stab1+ double negative cells","23_months",125,606247,0.000206186587315071
+"606","Kidney","Type 2 innate lymphoid cells","03_months",51,303739,0.000167907315162031
+"607","Kidney","Type 2 innate lymphoid cells","06_months",100,586006,0.000170646716927813
+"608","Kidney","Type 2 innate lymphoid cells","12_months",101,612711,0.0001648411730816
+"609","Kidney","Type 2 innate lymphoid cells","16_months",144,323182,0.000445569369581227
+"610","Kidney","Type 2 innate lymphoid cells","23_months",391,606247,0.000644951645121543
+"611","Kidney","Type 3 innate lymphoid cells","03_months",5,303739,1.64615014864736e-05
+"612","Kidney","Type 3 innate lymphoid cells","06_months",4,586006,6.82586867711252e-06
+"613","Kidney","Type 3 innate lymphoid cells","12_months",12,612711,1.95850898710811e-05
+"614","Kidney","Type 3 innate lymphoid cells","16_months",13,323182,4.02250125316385e-05
+"615","Kidney","Type 3 innate lymphoid cells","23_months",27,606247,4.45363028600554e-05
+"616","Liver","CD4+ Ccr9+ T helper cells","03_months",17,218851,7.76784204778594e-05
+"617","Liver","CD4+ Ccr9+ T helper cells","06_months",36,386346,9.31807240142256e-05
+"618","Liver","CD4+ Ccr9+ T helper cells","12_months",12,187404,6.40327847858103e-05
+"619","Liver","CD4+ Ccr9+ T helper cells","16_months",92,166289,0.000553253672822616
+"620","Liver","CD4+ Ccr9+ T helper cells","23_months",188,276358,0.000680277031965784
+"621","Liver","CD4+ T follicular helper cells","03_months",19,218851,8.68170581811369e-05
+"622","Liver","CD4+ T follicular helper cells","06_months",49,386346,0.00012682931879714
+"623","Liver","CD4+ T follicular helper cells","12_months",88,187404,0.000469573755095942
+"624","Liver","CD4+ T follicular helper cells","16_months",187,166289,0.00112454822628075
+"625","Liver","CD4+ T follicular helper cells","23_months",744,276358,0.00269216016905608
+"626","Liver","CD4+ T regulatory cells","03_months",34,218851,0.000155356840955719
+"627","Liver","CD4+ T regulatory cells","06_months",55,386346,0.000142359439466178
+"628","Liver","CD4+ T regulatory cells","12_months",42,187404,0.000224114746750336
+"629","Liver","CD4+ T regulatory cells","16_months",104,166289,0.000625417195364696
+"630","Liver","CD4+ T regulatory cells","23_months",479,276358,0.0017332590335724
+"631","Liver","CD4+ memory T cells","03_months",631,218851,0.00288324019538407
+"632","Liver","CD4+ memory T cells","06_months",668,386346,0.00172902010115285
+"633","Liver","CD4+ memory T cells","12_months",197,187404,0.00105120488356705
+"634","Liver","CD4+ memory T cells","16_months",572,166289,0.00343979457450583
+"635","Liver","CD4+ memory T cells","23_months",1893,276358,0.0068498107527193
+"636","Liver","CD4+ naive T cells","03_months",266,218851,0.00121543881453592
+"637","Liver","CD4+ naive T cells","06_months",339,386346,0.000877451817800624
+"638","Liver","CD4+ naive T cells","12_months",56,187404,0.000298819662333782
+"639","Liver","CD4+ naive T cells","16_months",175,166289,0.00105238470373867
+"640","Liver","CD4+ naive T cells","23_months",341,276358,0.0012339067441507
+"641","Liver","CD8+ Gzmb+ cytotoxic T cells","03_months",17,218851,7.76784204778594e-05
+"642","Liver","CD8+ Gzmb+ cytotoxic T cells","06_months",18,386346,4.65903620071128e-05
+"643","Liver","CD8+ Gzmb+ cytotoxic T cells","12_months",8,187404,4.26885231905402e-05
+"644","Liver","CD8+ Gzmb+ cytotoxic T cells","16_months",5,166289,3.00681343925335e-05
+"645","Liver","CD8+ Gzmb+ cytotoxic T cells","23_months",83,276358,0.000300335072623192
+"646","Liver","CD8+ Gzmk+ cytotoxic T cells","03_months",14,218851,6.3970463922943e-05
+"647","Liver","CD8+ Gzmk+ cytotoxic T cells","06_months",57,386346,0.000147536146355857
+"648","Liver","CD8+ Gzmk+ cytotoxic T cells","12_months",33,187404,0.000176090158160978
+"649","Liver","CD8+ Gzmk+ cytotoxic T cells","16_months",142,166289,0.000853935016747951
+"650","Liver","CD8+ Gzmk+ cytotoxic T cells","23_months",1263,276358,0.00457015899666375
+"651","Liver","CD8+ naive T cells","03_months",60,218851,0.000274159131098327
+"652","Liver","CD8+ naive T cells","06_months",67,386346,0.000173419680804253
+"653","Liver","CD8+ naive T cells","12_months",35,187404,0.000186762288958613
+"654","Liver","CD8+ naive T cells","16_months",96,166289,0.000577308180336643
+"655","Liver","CD8+ naive T cells","23_months",674,276358,0.00243886552949435
+"656","Liver","CD8+ tissue-resident memory T cells","03_months",30,218851,0.000137079565549164
+"657","Liver","CD8+ tissue-resident memory T cells","06_months",74,386346,0.00019153815491813
+"658","Liver","CD8+ tissue-resident memory T cells","12_months",11,187404,5.86967193869928e-05
+"659","Liver","CD8+ tissue-resident memory T cells","16_months",44,166289,0.000264599582654295
+"660","Liver","CD8+ tissue-resident memory T cells","23_months",134,276358,0.000484878310018165
+"661","Liver","Car1+ double negative cells","03_months",2,218851,9.13863770327757e-06
+"662","Liver","Car1+ double negative cells","23_months",2,276358,7.23698970176365e-06
+"663","Liver","Epb41l3+ double negative cells","03_months",2,218851,9.13863770327757e-06
+"664","Liver","Epb41l3+ double negative cells","06_months",5,386346,1.2941767224198e-05
+"665","Liver","Epb41l3+ double negative cells","12_months",1,187404,5.33606539881753e-06
+"666","Liver","Epb41l3+ double negative cells","16_months",2,166289,1.20272537570134e-05
+"667","Liver","Epb41l3+ double negative cells","23_months",22,276358,7.96068867194002e-05
+"668","Liver","Gammadelta T cells","03_months",11,218851,5.02625073680266e-05
+"669","Liver","Gammadelta T cells","06_months",49,386346,0.00012682931879714
+"670","Liver","Gammadelta T cells","12_months",23,187404,0.000122729504172803
+"671","Liver","Gammadelta T cells","16_months",118,166289,0.00070960797166379
+"672","Liver","Gammadelta T cells","23_months",472,276358,0.00170792956961622
+"673","Liver","Liver-resident T cells","03_months",3550,218851,0.0162210819233177
+"674","Liver","Liver-resident T cells","06_months",9489,386346,0.024560885838083
+"675","Liver","Liver-resident T cells","12_months",3910,187404,0.0208640157093765
+"676","Liver","Liver-resident T cells","16_months",4679,166289,0.0281377601645328
+"677","Liver","Liver-resident T cells","23_months",13165,276358,0.0476374847118593
+"678","Liver","Prf1+ natural killer cells","03_months",70,218851,0.000319852319614715
+"679","Liver","Prf1+ natural killer cells","06_months",85,386346,0.000220010042811366
+"680","Liver","Prf1+ natural killer cells","12_months",23,187404,0.000122729504172803
+"681","Liver","Prf1+ natural killer cells","16_months",54,166289,0.000324735851439362
+"682","Liver","Prf1+ natural killer cells","23_months",229,276358,0.000828635320851938
+"683","Liver","Sema6d+ natural killer cells","03_months",78,218851,0.000356406870427825
+"684","Liver","Sema6d+ natural killer cells","06_months",95,386346,0.000245893577259762
+"685","Liver","Sema6d+ natural killer cells","12_months",22,187404,0.000117393438773986
+"686","Liver","Sema6d+ natural killer cells","16_months",82,166289,0.000493117404037549
+"687","Liver","Sema6d+ natural killer cells","23_months",303,276358,0.00109640393981719
+"688","Liver","Stab1+ double negative cells","03_months",5,218851,2.28465942581939e-05
+"689","Liver","Stab1+ double negative cells","06_months",11,386346,2.84718878932356e-05
+"690","Liver","Stab1+ double negative cells","12_months",5,187404,2.66803269940876e-05
+"691","Liver","Stab1+ double negative cells","16_months",9,166289,5.41226419065603e-05
+"692","Liver","Stab1+ double negative cells","23_months",66,276358,0.000238820660158201
+"693","Liver","Type 2 innate lymphoid cells","03_months",27,218851,0.000123371608994247
+"694","Liver","Type 2 innate lymphoid cells","06_months",16,386346,4.14136551174336e-05
+"695","Liver","Type 2 innate lymphoid cells","12_months",7,187404,3.73524577917227e-05
+"696","Liver","Type 2 innate lymphoid cells","16_months",30,166289,0.000180408806355201
+"697","Liver","Type 2 innate lymphoid cells","23_months",118,276358,0.000426982392404056
+"698","Liver","Type 3 innate lymphoid cells","03_months",8,218851,3.65545508131103e-05
+"699","Liver","Type 3 innate lymphoid cells","06_months",3,386346,7.7650603345188e-06
+"700","Liver","Type 3 innate lymphoid cells","12_months",2,187404,1.06721307976351e-05
+"701","Liver","Type 3 innate lymphoid cells","16_months",7,166289,4.20953881495469e-05
+"702","Liver","Type 3 innate lymphoid cells","23_months",39,276358,0.000141121299184391
+"703","Lung","CD4+ Ccr9+ T helper cells","03_months",46,227873,0.000201866829330373
+"704","Lung","CD4+ Ccr9+ T helper cells","06_months",169,442657,0.000381785445615906
+"705","Lung","CD4+ Ccr9+ T helper cells","12_months",175,443286,0.000394778991441191
+"706","Lung","CD4+ Ccr9+ T helper cells","16_months",372,215261,0.00172813468301271
+"707","Lung","CD4+ Ccr9+ T helper cells","23_months",1158,411339,0.00281519622501149
+"708","Lung","CD4+ T follicular helper cells","03_months",241,227873,0.00105760664931782
+"709","Lung","CD4+ T follicular helper cells","06_months",1030,442657,0.00232685804132771
+"710","Lung","CD4+ T follicular helper cells","12_months",1710,443286,0.00385755471636821
+"711","Lung","CD4+ T follicular helper cells","16_months",2847,215261,0.013225804953057
+"712","Lung","CD4+ T follicular helper cells","23_months",5865,411339,0.014258312486781
+"713","Lung","CD4+ T regulatory cells","03_months",325,227873,0.00142623303331242
+"714","Lung","CD4+ T regulatory cells","06_months",768,442657,0.00173497764634921
+"715","Lung","CD4+ T regulatory cells","12_months",873,443286,0.00196938319730377
+"716","Lung","CD4+ T regulatory cells","16_months",945,215261,0.00439001955765327
+"717","Lung","CD4+ T regulatory cells","23_months",2400,411339,0.00583460357515334
+"718","Lung","CD4+ memory T cells","03_months",1830,227873,0.00803078907988222
+"719","Lung","CD4+ memory T cells","06_months",1982,442657,0.00447750741544808
+"720","Lung","CD4+ memory T cells","12_months",1185,443286,0.00267321774204464
+"721","Lung","CD4+ memory T cells","16_months",1089,215261,0.00505897491881948
+"722","Lung","CD4+ memory T cells","23_months",4312,411339,0.0104828377566922
+"723","Lung","CD4+ naive T cells","03_months",7665,227873,0.0336371575395067
+"724","Lung","CD4+ naive T cells","06_months",13260,442657,0.029955473425248
+"725","Lung","CD4+ naive T cells","12_months",8358,443286,0.0188546446312313
+"726","Lung","CD4+ naive T cells","16_months",3231,215261,0.0150096859161669
+"727","Lung","CD4+ naive T cells","23_months",3383,411339,0.00822435995614323
+"728","Lung","CD8+ Gzmb+ cytotoxic T cells","03_months",20,227873,8.77681866653794e-05
+"729","Lung","CD8+ Gzmb+ cytotoxic T cells","06_months",24,442657,5.42180514484127e-05
+"730","Lung","CD8+ Gzmb+ cytotoxic T cells","12_months",20,443286,4.51175990218505e-05
+"731","Lung","CD8+ Gzmb+ cytotoxic T cells","16_months",10,215261,4.64552334143203e-05
+"732","Lung","CD8+ Gzmb+ cytotoxic T cells","23_months",37,411339,8.99501384502807e-05
+"733","Lung","CD8+ Gzmk+ cytotoxic T cells","03_months",158,227873,0.000693368674656497
+"734","Lung","CD8+ Gzmk+ cytotoxic T cells","06_months",848,442657,0.00191570448451058
+"735","Lung","CD8+ Gzmk+ cytotoxic T cells","12_months",1915,443286,0.00432001010634218
+"736","Lung","CD8+ Gzmk+ cytotoxic T cells","16_months",2994,215261,0.0139086968842475
+"737","Lung","CD8+ Gzmk+ cytotoxic T cells","23_months",7518,411339,0.0182768956991678
+"738","Lung","CD8+ naive T cells","03_months",899,227873,0.0039451799906088
+"739","Lung","CD8+ naive T cells","06_months",2134,442657,0.00482088840795469
+"740","Lung","CD8+ naive T cells","12_months",3154,443286,0.00711504536574582
+"741","Lung","CD8+ naive T cells","16_months",1829,215261,0.00849666219147918
+"742","Lung","CD8+ naive T cells","23_months",8060,411339,0.0195945436732233
+"743","Lung","CD8+ tissue-resident memory T cells","03_months",91,227873,0.000399345249327476
+"744","Lung","CD8+ tissue-resident memory T cells","06_months",200,442657,0.000451817095403439
+"745","Lung","CD8+ tissue-resident memory T cells","12_months",125,443286,0.000281984993886565
+"746","Lung","CD8+ tissue-resident memory T cells","16_months",71,215261,0.000329832157241674
+"747","Lung","CD8+ tissue-resident memory T cells","23_months",261,411339,0.000634513138797926
+"748","Lung","Car1+ double negative cells","03_months",2,227873,8.77681866653794e-06
+"749","Lung","Car1+ double negative cells","06_months",3,442657,6.77725643105158e-06
+"750","Lung","Car1+ double negative cells","12_months",2,443286,4.51175990218505e-06
+"751","Lung","Car1+ double negative cells","16_months",2,215261,9.29104668286406e-06
+"752","Lung","Car1+ double negative cells","23_months",8,411339,1.94486785838445e-05
+"753","Lung","Epb41l3+ double negative cells","03_months",8,227873,3.51072746661518e-05
+"754","Lung","Epb41l3+ double negative cells","06_months",8,442657,1.80726838161376e-05
+"755","Lung","Epb41l3+ double negative cells","12_months",6,443286,1.35352797065551e-05
+"756","Lung","Epb41l3+ double negative cells","16_months",9,215261,4.18097100728883e-05
+"757","Lung","Epb41l3+ double negative cells","23_months",31,411339,7.53636295123973e-05
+"758","Lung","Gammadelta T cells","03_months",601,227873,0.00263743400929465
+"759","Lung","Gammadelta T cells","06_months",3233,442657,0.00730362334719659
+"760","Lung","Gammadelta T cells","12_months",4902,443286,0.0110583235202555
+"761","Lung","Gammadelta T cells","16_months",3784,215261,0.0175786603239788
+"762","Lung","Gammadelta T cells","23_months",7578,411339,0.0184227607885467
+"763","Lung","Liver-resident T cells","03_months",11,227873,4.82725026659587e-05
+"764","Lung","Liver-resident T cells","06_months",16,442657,3.61453676322751e-05
+"765","Lung","Liver-resident T cells","12_months",10,443286,2.25587995109252e-05
+"766","Lung","Liver-resident T cells","16_months",16,215261,7.43283734629125e-05
+"767","Lung","Liver-resident T cells","23_months",32,411339,7.77947143353779e-05
+"768","Lung","Prf1+ natural killer cells","03_months",2616,227873,0.0114800788158316
+"769","Lung","Prf1+ natural killer cells","06_months",5059,442657,0.01142871342823
+"770","Lung","Prf1+ natural killer cells","12_months",4642,443286,0.0104717947329715
+"771","Lung","Prf1+ natural killer cells","16_months",1720,215261,0.00799030014726309
+"772","Lung","Prf1+ natural killer cells","23_months",3507,411339,0.00852581447419282
+"773","Lung","Sema6d+ natural killer cells","03_months",64,227873,0.000280858197329214
+"774","Lung","Sema6d+ natural killer cells","06_months",158,442657,0.000356935505368717
+"775","Lung","Sema6d+ natural killer cells","12_months",153,443286,0.000345149632517156
+"776","Lung","Sema6d+ natural killer cells","16_months",81,215261,0.000376287390655994
+"777","Lung","Sema6d+ natural killer cells","23_months",159,411339,0.000386542486853909
+"778","Lung","Stab1+ double negative cells","03_months",39,227873,0.00017114796399749
+"779","Lung","Stab1+ double negative cells","06_months",143,442657,0.000323049223213459
+"780","Lung","Stab1+ double negative cells","12_months",126,443286,0.000284240873837658
+"781","Lung","Stab1+ double negative cells","16_months",74,215261,0.00034376872726597
+"782","Lung","Stab1+ double negative cells","23_months",354,411339,0.000860604027335118
+"783","Lung","Type 2 innate lymphoid cells","03_months",1092,227873,0.00479214299192972
+"784","Lung","Type 2 innate lymphoid cells","06_months",1702,442657,0.00384496348188326
+"785","Lung","Type 2 innate lymphoid cells","12_months",1927,443286,0.00434708066575529
+"786","Lung","Type 2 innate lymphoid cells","16_months",965,215261,0.00448293002448191
+"787","Lung","Type 2 innate lymphoid cells","23_months",1944,411339,0.00472602889587421
+"788","Lung","Type 3 innate lymphoid cells","03_months",26,227873,0.000114098642664993
+"789","Lung","Type 3 innate lymphoid cells","06_months",81,442657,0.000182985923638393
+"790","Lung","Type 3 innate lymphoid cells","12_months",112,443286,0.000252658554522363
+"791","Lung","Type 3 innate lymphoid cells","16_months",80,215261,0.000371641867314562
+"792","Lung","Type 3 innate lymphoid cells","23_months",178,411339,0.000432733098490539
+"793","Muscle","CD4+ Ccr9+ T helper cells","03_months",1,51422,1.94469293298588e-05
+"794","Muscle","CD4+ Ccr9+ T helper cells","06_months",3,123664,2.42592832190452e-05
+"795","Muscle","CD4+ Ccr9+ T helper cells","12_months",3,107454,2.79189234463119e-05
+"796","Muscle","CD4+ Ccr9+ T helper cells","16_months",41,65995,0.000621259186301993
+"797","Muscle","CD4+ Ccr9+ T helper cells","23_months",10,120445,8.30254472995973e-05
+"798","Muscle","CD4+ T follicular helper cells","03_months",3,51422,5.83407879895764e-05
+"799","Muscle","CD4+ T follicular helper cells","06_months",4,123664,3.23457109587269e-05
+"800","Muscle","CD4+ T follicular helper cells","12_months",16,107454,0.000148900925046997
+"801","Muscle","CD4+ T follicular helper cells","16_months",148,65995,0.00224259413591939
+"802","Muscle","CD4+ T follicular helper cells","23_months",81,120445,0.000672506123126738
+"803","Muscle","CD4+ T regulatory cells","03_months",11,51422,0.000213916222628447
+"804","Muscle","CD4+ T regulatory cells","06_months",7,123664,5.6604994177772e-05
+"805","Muscle","CD4+ T regulatory cells","12_months",31,107454,0.000288495542278556
+"806","Muscle","CD4+ T regulatory cells","16_months",104,65995,0.00157587696037579
+"807","Muscle","CD4+ T regulatory cells","23_months",63,120445,0.000523060317987463
+"808","Muscle","CD4+ memory T cells","03_months",6,51422,0.000116681575979153
+"809","Muscle","CD4+ memory T cells","06_months",37,123664,0.000299197826368224
+"810","Muscle","CD4+ memory T cells","12_months",32,107454,0.000297801850093994
+"811","Muscle","CD4+ memory T cells","16_months",44,65995,0.000666717175543602
+"812","Muscle","CD4+ memory T cells","23_months",72,120445,0.000597783220557101
+"813","Muscle","CD4+ naive T cells","03_months",126,51422,0.00245031309556221
+"814","Muscle","CD4+ naive T cells","06_months",33,123664,0.000266852115409497
+"815","Muscle","CD4+ naive T cells","12_months",130,107454,0.00120982001600685
+"816","Muscle","CD4+ naive T cells","16_months",226,65995,0.00342450185620123
+"817","Muscle","CD4+ naive T cells","23_months",98,120445,0.000813649383536054
+"818","Muscle","CD8+ Gzmb+ cytotoxic T cells","06_months",1,123664,8.08642773968172e-06
+"819","Muscle","CD8+ Gzmb+ cytotoxic T cells","12_months",1,107454,9.3063078154373e-06
+"820","Muscle","CD8+ Gzmb+ cytotoxic T cells","16_months",1,65995,1.51526630805364e-05
+"821","Muscle","CD8+ Gzmb+ cytotoxic T cells","23_months",1,120445,8.30254472995973e-06
+"822","Muscle","CD8+ Gzmk+ cytotoxic T cells","06_months",4,123664,3.23457109587269e-05
+"823","Muscle","CD8+ Gzmk+ cytotoxic T cells","12_months",17,107454,0.000158207232862434
+"824","Muscle","CD8+ Gzmk+ cytotoxic T cells","16_months",63,65995,0.000954617774073794
+"825","Muscle","CD8+ Gzmk+ cytotoxic T cells","23_months",75,120445,0.00062269085474698
+"826","Muscle","CD8+ naive T cells","03_months",3,51422,5.83407879895764e-05
+"827","Muscle","CD8+ naive T cells","06_months",12,123664,9.70371328761806e-05
+"828","Muscle","CD8+ naive T cells","12_months",10,107454,9.3063078154373e-05
+"829","Muscle","CD8+ naive T cells","16_months",36,65995,0.000545495870899311
+"830","Muscle","CD8+ naive T cells","23_months",49,120445,0.000406824691768027
+"831","Muscle","CD8+ tissue-resident memory T cells","03_months",6,51422,0.000116681575979153
+"832","Muscle","CD8+ tissue-resident memory T cells","06_months",7,123664,5.6604994177772e-05
+"833","Muscle","CD8+ tissue-resident memory T cells","12_months",15,107454,0.00013959461723156
+"834","Muscle","CD8+ tissue-resident memory T cells","16_months",23,65995,0.000348511250852337
+"835","Muscle","CD8+ tissue-resident memory T cells","23_months",23,120445,0.000190958528789074
+"836","Muscle","Epb41l3+ double negative cells","03_months",1,51422,1.94469293298588e-05
+"837","Muscle","Epb41l3+ double negative cells","12_months",1,107454,9.3063078154373e-06
+"838","Muscle","Gammadelta T cells","03_months",4,51422,7.77877173194353e-05
+"839","Muscle","Gammadelta T cells","06_months",17,123664,0.000137469271574589
+"840","Muscle","Gammadelta T cells","12_months",37,107454,0.00034433338917118
+"841","Muscle","Gammadelta T cells","16_months",18,65995,0.000272747935449655
+"842","Muscle","Gammadelta T cells","23_months",84,120445,0.000697413757316618
+"843","Muscle","Liver-resident T cells","16_months",1,65995,1.51526630805364e-05
+"844","Muscle","Liver-resident T cells","23_months",1,120445,8.30254472995973e-06
+"845","Muscle","Prf1+ natural killer cells","03_months",10,51422,0.000194469293298588
+"846","Muscle","Prf1+ natural killer cells","06_months",26,123664,0.000210247121231725
+"847","Muscle","Prf1+ natural killer cells","12_months",25,107454,0.000232657695385933
+"848","Muscle","Prf1+ natural killer cells","16_months",11,65995,0.0001666792938859
+"849","Muscle","Prf1+ natural killer cells","23_months",40,120445,0.000332101789198389
+"850","Muscle","Sema6d+ natural killer cells","03_months",17,51422,0.0003305977986076
+"851","Muscle","Sema6d+ natural killer cells","06_months",25,123664,0.000202160693492043
+"852","Muscle","Sema6d+ natural killer cells","12_months",76,107454,0.000707279393973235
+"853","Muscle","Sema6d+ natural killer cells","16_months",43,65995,0.000651564512463065
+"854","Muscle","Sema6d+ natural killer cells","23_months",105,120445,0.000871767196645772
+"855","Muscle","Stab1+ double negative cells","03_months",3,51422,5.83407879895764e-05
+"856","Muscle","Stab1+ double negative cells","06_months",3,123664,2.42592832190452e-05
+"857","Muscle","Stab1+ double negative cells","12_months",3,107454,2.79189234463119e-05
+"858","Muscle","Stab1+ double negative cells","16_months",5,65995,7.5763315402682e-05
+"859","Muscle","Stab1+ double negative cells","23_months",3,120445,2.49076341898792e-05
+"860","Muscle","Type 2 innate lymphoid cells","03_months",49,51422,0.000952899537163082
+"861","Muscle","Type 2 innate lymphoid cells","06_months",115,123664,0.000929939190063398
+"862","Muscle","Type 2 innate lymphoid cells","12_months",115,107454,0.00107022539877529
+"863","Muscle","Type 2 innate lymphoid cells","16_months",110,65995,0.001666792938859
+"864","Muscle","Type 2 innate lymphoid cells","23_months",106,120445,0.000880069741375732
+"865","Muscle","Type 3 innate lymphoid cells","06_months",1,123664,8.08642773968172e-06
+"866","Muscle","Type 3 innate lymphoid cells","23_months",5,120445,4.15127236497987e-05
+"867","Stomach","CD4+ Ccr9+ T helper cells","03_months",13,115042,0.000113002207889293
+"868","Stomach","CD4+ Ccr9+ T helper cells","06_months",4,117374,3.40790975854959e-05
+"869","Stomach","CD4+ Ccr9+ T helper cells","12_months",26,189279,0.000137363363077785
+"870","Stomach","CD4+ Ccr9+ T helper cells","16_months",14,106778,0.00013111315064901
+"871","Stomach","CD4+ Ccr9+ T helper cells","23_months",94,159099,0.000590827095079165
+"872","Stomach","CD4+ T follicular helper cells","03_months",11,115042,9.56172528294014e-05
+"873","Stomach","CD4+ T follicular helper cells","06_months",11,117374,9.37175183601138e-05
+"874","Stomach","CD4+ T follicular helper cells","12_months",38,189279,0.000200761838344454
+"875","Stomach","CD4+ T follicular helper cells","16_months",11,106778,0.000103017475509936
+"876","Stomach","CD4+ T follicular helper cells","23_months",163,159099,0.00102451932444579
+"877","Stomach","CD4+ T regulatory cells","03_months",26,115042,0.000226004415778585
+"878","Stomach","CD4+ T regulatory cells","06_months",17,117374,0.000144836164738358
+"879","Stomach","CD4+ T regulatory cells","12_months",56,189279,0.000295859551244459
+"880","Stomach","CD4+ T regulatory cells","16_months",35,106778,0.000327782876622525
+"881","Stomach","CD4+ T regulatory cells","23_months",180,159099,0.00113137103313032
+"882","Stomach","CD4+ memory T cells","03_months",198,115042,0.00172111055092923
+"883","Stomach","CD4+ memory T cells","06_months",211,117374,0.00179767239763491
+"884","Stomach","CD4+ memory T cells","12_months",550,189279,0.00290576344972237
+"885","Stomach","CD4+ memory T cells","16_months",427,106778,0.00399895109479481
+"886","Stomach","CD4+ memory T cells","23_months",850,159099,0.00534258543422649
+"887","Stomach","CD4+ naive T cells","03_months",36,115042,0.000312929191078041
+"888","Stomach","CD4+ naive T cells","06_months",17,117374,0.000144836164738358
+"889","Stomach","CD4+ naive T cells","12_months",48,189279,0.000253593901066679
+"890","Stomach","CD4+ naive T cells","16_months",16,106778,0.000149843600741726
+"891","Stomach","CD4+ naive T cells","23_months",97,159099,0.00060968327896467
+"892","Stomach","CD8+ Gzmb+ cytotoxic T cells","03_months",18,115042,0.000156464595539021
+"893","Stomach","CD8+ Gzmb+ cytotoxic T cells","06_months",3,117374,2.5559323189122e-05
+"894","Stomach","CD8+ Gzmb+ cytotoxic T cells","12_months",9,189279,4.75488564500024e-05
+"895","Stomach","CD8+ Gzmb+ cytotoxic T cells","16_months",6,106778,5.61913502781472e-05
+"896","Stomach","CD8+ Gzmb+ cytotoxic T cells","23_months",9,159099,5.65685516565158e-05
+"897","Stomach","CD8+ Gzmk+ cytotoxic T cells","03_months",9,115042,7.82322977695103e-05
+"898","Stomach","CD8+ Gzmk+ cytotoxic T cells","06_months",1,117374,8.51977439637398e-06
+"899","Stomach","CD8+ Gzmk+ cytotoxic T cells","12_months",56,189279,0.000295859551244459
+"900","Stomach","CD8+ Gzmk+ cytotoxic T cells","16_months",22,106778,0.000206034951019873
+"901","Stomach","CD8+ Gzmk+ cytotoxic T cells","23_months",169,159099,0.0010622316922168
+"902","Stomach","CD8+ naive T cells","03_months",13,115042,0.000113002207889293
+"903","Stomach","CD8+ naive T cells","06_months",9,117374,7.66779695673659e-05
+"904","Stomach","CD8+ naive T cells","12_months",34,189279,0.000179629013255565
+"905","Stomach","CD8+ naive T cells","16_months",12,106778,0.000112382700556294
+"906","Stomach","CD8+ naive T cells","23_months",163,159099,0.00102451932444579
+"907","Stomach","CD8+ tissue-resident memory T cells","03_months",6,115042,5.21548651796735e-05
+"908","Stomach","CD8+ tissue-resident memory T cells","06_months",7,117374,5.96384207746179e-05
+"909","Stomach","CD8+ tissue-resident memory T cells","12_months",20,189279,0.00010566412544445
+"910","Stomach","CD8+ tissue-resident memory T cells","16_months",12,106778,0.000112382700556294
+"911","Stomach","CD8+ tissue-resident memory T cells","23_months",24,159099,0.000150849471084042
+"912","Stomach","Car1+ double negative cells","03_months",3,115042,2.60774325898368e-05
+"913","Stomach","Car1+ double negative cells","06_months",5,117374,4.25988719818699e-05
+"914","Stomach","Car1+ double negative cells","12_months",13,189279,6.86816815388923e-05
+"915","Stomach","Car1+ double negative cells","16_months",8,106778,7.49218003708629e-05
+"916","Stomach","Car1+ double negative cells","23_months",12,159099,7.5424735542021e-05
+"917","Stomach","Epb41l3+ double negative cells","03_months",1,115042,8.69247752994558e-06
+"918","Stomach","Epb41l3+ double negative cells","06_months",2,117374,1.7039548792748e-05
+"919","Stomach","Epb41l3+ double negative cells","12_months",2,189279,1.0566412544445e-05
+"920","Stomach","Epb41l3+ double negative cells","23_months",10,159099,6.28539462850175e-05
+"921","Stomach","Gammadelta T cells","03_months",72,115042,0.000625858382156082
+"922","Stomach","Gammadelta T cells","06_months",60,117374,0.000511186463782439
+"923","Stomach","Gammadelta T cells","12_months",382,189279,0.00201818479598899
+"924","Stomach","Gammadelta T cells","16_months",209,106778,0.00195733203468879
+"925","Stomach","Gammadelta T cells","23_months",591,159099,0.00371466822544453
+"926","Stomach","Liver-resident T cells","03_months",1,115042,8.69247752994558e-06
+"927","Stomach","Liver-resident T cells","06_months",3,117374,2.5559323189122e-05
+"928","Stomach","Liver-resident T cells","12_months",4,189279,2.11328250888899e-05
+"929","Stomach","Liver-resident T cells","16_months",2,106778,1.87304500927157e-05
+"930","Stomach","Liver-resident T cells","23_months",9,159099,5.65685516565158e-05
+"931","Stomach","Prf1+ natural killer cells","03_months",47,115042,0.000408546443907443
+"932","Stomach","Prf1+ natural killer cells","06_months",36,117374,0.000306711878269463
+"933","Stomach","Prf1+ natural killer cells","12_months",71,189279,0.000375107645327797
+"934","Stomach","Prf1+ natural killer cells","16_months",43,106778,0.000402704676993388
+"935","Stomach","Prf1+ natural killer cells","23_months",80,159099,0.00050283157028014
+"936","Stomach","Sema6d+ natural killer cells","03_months",98,115042,0.000851862797934667
+"937","Stomach","Sema6d+ natural killer cells","06_months",30,117374,0.00025559323189122
+"938","Stomach","Sema6d+ natural killer cells","12_months",91,189279,0.000480771770772246
+"939","Stomach","Sema6d+ natural killer cells","16_months",61,106778,0.00057127872782783
+"940","Stomach","Sema6d+ natural killer cells","23_months",79,159099,0.000496546175651638
+"941","Stomach","Stab1+ double negative cells","03_months",41,115042,0.000356391578727769
+"942","Stomach","Stab1+ double negative cells","06_months",26,117374,0.000221514134305724
+"943","Stomach","Stab1+ double negative cells","12_months",63,189279,0.000332841995150017
+"944","Stomach","Stab1+ double negative cells","16_months",20,106778,0.000187304500927157
+"945","Stomach","Stab1+ double negative cells","23_months",88,159099,0.000553114727308154
+"946","Stomach","Type 2 innate lymphoid cells","03_months",600,115042,0.00521548651796735
+"947","Stomach","Type 2 innate lymphoid cells","06_months",208,117374,0.00177211307444579
+"948","Stomach","Type 2 innate lymphoid cells","12_months",700,189279,0.00369824439055574
+"949","Stomach","Type 2 innate lymphoid cells","16_months",423,106778,0.00396149019460938
+"950","Stomach","Type 2 innate lymphoid cells","23_months",762,159099,0.00478947070691833
+"951","Stomach","Type 3 innate lymphoid cells","03_months",13,115042,0.000113002207889293
+"952","Stomach","Type 3 innate lymphoid cells","06_months",7,117374,5.96384207746179e-05
+"953","Stomach","Type 3 innate lymphoid cells","12_months",21,189279,0.000110947331716672
+"954","Stomach","Type 3 innate lymphoid cells","16_months",5,106778,4.68261252317893e-05
+"955","Stomach","Type 3 innate lymphoid cells","23_months",29,159099,0.000182276444226551
+"956","gWAT","CD4+ Ccr9+ T helper cells","03_months",6,106042,5.65813545576281e-05
+"957","gWAT","CD4+ Ccr9+ T helper cells","06_months",15,186467,8.04431883389554e-05
+"958","gWAT","CD4+ Ccr9+ T helper cells","12_months",53,156133,0.000339454183292449
+"959","gWAT","CD4+ Ccr9+ T helper cells","16_months",40,61071,0.00065497535655221
+"960","gWAT","CD4+ Ccr9+ T helper cells","23_months",249,190411,0.00130769755948974
+"961","gWAT","CD4+ T follicular helper cells","03_months",35,106042,0.000330057901586164
+"962","gWAT","CD4+ T follicular helper cells","06_months",152,186467,0.000815157641834748
+"963","gWAT","CD4+ T follicular helper cells","12_months",232,156133,0.00148591265139336
+"964","gWAT","CD4+ T follicular helper cells","16_months",201,61071,0.00329125116667485
+"965","gWAT","CD4+ T follicular helper cells","23_months",2539,190411,0.0133343136688532
+"966","gWAT","CD4+ T regulatory cells","03_months",127,106042,0.00119763867146979
+"967","gWAT","CD4+ T regulatory cells","06_months",283,186467,0.00151769481999496
+"968","gWAT","CD4+ T regulatory cells","12_months",686,156133,0.00439368999506831
+"969","gWAT","CD4+ T regulatory cells","16_months",309,61071,0.00505968462936582
+"970","gWAT","CD4+ T regulatory cells","23_months",2418,190411,0.0126988461801051
+"971","gWAT","CD4+ memory T cells","03_months",285,106042,0.00268761434148733
+"972","gWAT","CD4+ memory T cells","06_months",428,186467,0.00229531230727153
+"973","gWAT","CD4+ memory T cells","12_months",836,156133,0.00535440938174505
+"974","gWAT","CD4+ memory T cells","16_months",721,61071,0.0118059308018536
+"975","gWAT","CD4+ memory T cells","23_months",1742,190411,0.00914863111900048
+"976","gWAT","CD4+ naive T cells","03_months",83,106042,0.000782708738047189
+"977","gWAT","CD4+ naive T cells","06_months",215,186467,0.00115301903285836
+"978","gWAT","CD4+ naive T cells","12_months",352,156133,0.00225448816073476
+"979","gWAT","CD4+ naive T cells","16_months",328,61071,0.00537079792372812
+"980","gWAT","CD4+ naive T cells","23_months",2959,190411,0.0155400685884744
+"981","gWAT","CD8+ Gzmb+ cytotoxic T cells","03_months",5,106042,4.71511287980234e-05
+"982","gWAT","CD8+ Gzmb+ cytotoxic T cells","06_months",11,186467,5.89916714485673e-05
+"983","gWAT","CD8+ Gzmb+ cytotoxic T cells","12_months",18,156133,0.000115286326401209
+"984","gWAT","CD8+ Gzmb+ cytotoxic T cells","16_months",6,61071,9.82463034828315e-05
+"985","gWAT","CD8+ Gzmb+ cytotoxic T cells","23_months",13,190411,6.82733665597051e-05
+"986","gWAT","CD8+ Gzmk+ cytotoxic T cells","03_months",63,106042,0.000594104222855095
+"987","gWAT","CD8+ Gzmk+ cytotoxic T cells","06_months",145,186467,0.000777617487276569
+"988","gWAT","CD8+ Gzmk+ cytotoxic T cells","12_months",369,156133,0.00236336969122479
+"989","gWAT","CD8+ Gzmk+ cytotoxic T cells","16_months",486,61071,0.00795795058210935
+"990","gWAT","CD8+ Gzmk+ cytotoxic T cells","23_months",3078,190411,0.0161650324823671
+"991","gWAT","CD8+ naive T cells","03_months",116,106042,0.00109390618811414
+"992","gWAT","CD8+ naive T cells","06_months",147,186467,0.000788343245721763
+"993","gWAT","CD8+ naive T cells","12_months",308,156133,0.00197267714064291
+"994","gWAT","CD8+ naive T cells","16_months",238,61071,0.00389710337148565
+"995","gWAT","CD8+ naive T cells","23_months",6066,190411,0.0318574031962439
+"996","gWAT","CD8+ tissue-resident memory T cells","03_months",537,106042,0.00506403123290772
+"997","gWAT","CD8+ tissue-resident memory T cells","06_months",1192,186467,0.00639255203333566
+"998","gWAT","CD8+ tissue-resident memory T cells","12_months",1933,156133,0.0123804704963076
+"999","gWAT","CD8+ tissue-resident memory T cells","16_months",845,61071,0.0138363544071654
+"1000","gWAT","CD8+ tissue-resident memory T cells","23_months",1367,190411,0.00717920708362437
+"1001","gWAT","Car1+ double negative cells","23_months",1,190411,5.25179742766962e-06
+"1002","gWAT","Epb41l3+ double negative cells","03_months",2,106042,1.88604515192094e-05
+"1003","gWAT","Epb41l3+ double negative cells","12_months",6,156133,3.84287754670697e-05
+"1004","gWAT","Epb41l3+ double negative cells","16_months",3,61071,4.91231517414157e-05
+"1005","gWAT","Epb41l3+ double negative cells","23_months",5,190411,2.62589871383481e-05
+"1006","gWAT","Gammadelta T cells","03_months",229,106042,0.00215952169894947
+"1007","gWAT","Gammadelta T cells","06_months",757,186467,0.00405969957150595
+"1008","gWAT","Gammadelta T cells","12_months",1589,156133,0.0101772207028623
+"1009","gWAT","Gammadelta T cells","16_months",1049,61071,0.0171767287255817
+"1010","gWAT","Gammadelta T cells","23_months",3392,190411,0.0178140968746553
+"1011","gWAT","Liver-resident T cells","03_months",13,106042,0.000122592934874861
+"1012","gWAT","Liver-resident T cells","06_months",19,186467,0.000101894705229344
+"1013","gWAT","Liver-resident T cells","12_months",42,156133,0.000269001428269488
+"1014","gWAT","Liver-resident T cells","16_months",21,61071,0.00034386206218991
+"1015","gWAT","Liver-resident T cells","23_months",47,190411,0.000246834479100472
+"1016","gWAT","Prf1+ natural killer cells","03_months",575,106042,0.00542237981177269
+"1017","gWAT","Prf1+ natural killer cells","06_months",739,186467,0.0039631677454992
+"1018","gWAT","Prf1+ natural killer cells","12_months",652,156133,0.00417592693408825
+"1019","gWAT","Prf1+ natural killer cells","16_months",279,61071,0.00456845311195166
+"1020","gWAT","Prf1+ natural killer cells","23_months",803,190411,0.0042171933344187
+"1021","gWAT","Sema6d+ natural killer cells","03_months",147,106042,0.00138624318666189
+"1022","gWAT","Sema6d+ natural killer cells","06_months",135,186467,0.000723988695050599
+"1023","gWAT","Sema6d+ natural killer cells","12_months",193,156133,0.00123612561085741
+"1024","gWAT","Sema6d+ natural killer cells","16_months",85,61071,0.00139182263267345
+"1025","gWAT","Sema6d+ natural killer cells","23_months",195,190411,0.00102410049839558
+"1026","gWAT","Stab1+ double negative cells","03_months",4,106042,3.77209030384187e-05
+"1027","gWAT","Stab1+ double negative cells","06_months",12,186467,6.43545506711643e-05
+"1028","gWAT","Stab1+ double negative cells","12_months",37,156133,0.000236977448713597
+"1029","gWAT","Stab1+ double negative cells","16_months",19,61071,0.0003111132943623
+"1030","gWAT","Stab1+ double negative cells","23_months",86,190411,0.000451654578779587
+"1031","gWAT","Type 2 innate lymphoid cells","03_months",727,106042,0.00685577412723261
+"1032","gWAT","Type 2 innate lymphoid cells","06_months",678,186467,0.00363603211292079
+"1033","gWAT","Type 2 innate lymphoid cells","12_months",690,156133,0.00441930917871302
+"1034","gWAT","Type 2 innate lymphoid cells","16_months",234,61071,0.00383160583583043
+"1035","gWAT","Type 2 innate lymphoid cells","23_months",971,190411,0.0050994953022672
+"1036","gWAT","Type 3 innate lymphoid cells","03_months",7,106042,6.60115803172328e-05
+"1037","gWAT","Type 3 innate lymphoid cells","06_months",16,186467,8.58060675615524e-05
+"1038","gWAT","Type 3 innate lymphoid cells","12_months",19,156133,0.000121691122312388
+"1039","gWAT","Type 3 innate lymphoid cells","16_months",17,61071,0.000278364526534689
+"1040","gWAT","Type 3 innate lymphoid cells","23_months",61,190411,0.000320359643087847
+"1041","iWAT","CD4+ Ccr9+ T helper cells","03_months",70,111502,0.000627791429750139
+"1042","iWAT","CD4+ Ccr9+ T helper cells","06_months",233,137795,0.00169091766754962
+"1043","iWAT","CD4+ Ccr9+ T helper cells","12_months",184,114505,0.00160691672852714
+"1044","iWAT","CD4+ Ccr9+ T helper cells","16_months",37,46678,0.000792664638587772
+"1045","iWAT","CD4+ Ccr9+ T helper cells","23_months",398,181636,0.00219119557796913
+"1046","iWAT","CD4+ T follicular helper cells","03_months",576,111502,0.005165826621944
+"1047","iWAT","CD4+ T follicular helper cells","06_months",778,137795,0.00564606843499401
+"1048","iWAT","CD4+ T follicular helper cells","12_months",548,114505,0.00478581721322213
+"1049","iWAT","CD4+ T follicular helper cells","16_months",315,46678,0.0067483611123013
+"1050","iWAT","CD4+ T follicular helper cells","23_months",2118,181636,0.0116606840053734
+"1051","iWAT","CD4+ T regulatory cells","03_months",3413,111502,0.0306093164248175
+"1052","iWAT","CD4+ T regulatory cells","06_months",2536,137795,0.0184041510940165
+"1053","iWAT","CD4+ T regulatory cells","12_months",2278,114505,0.0198943277586132
+"1054","iWAT","CD4+ T regulatory cells","16_months",837,46678,0.017931359526972
+"1055","iWAT","CD4+ T regulatory cells","23_months",4545,181636,0.025022572617763
+"1056","iWAT","CD4+ memory T cells","03_months",1223,111502,0.0109684131226346
+"1057","iWAT","CD4+ memory T cells","06_months",4153,137795,0.0301389745636634
+"1058","iWAT","CD4+ memory T cells","12_months",3995,114505,0.0348893061438365
+"1059","iWAT","CD4+ memory T cells","16_months",822,46678,0.0176100089978148
+"1060","iWAT","CD4+ memory T cells","23_months",2478,181636,0.0136426699552952
+"1061","iWAT","CD4+ naive T cells","03_months",14642,111502,0.131316030205736
+"1062","iWAT","CD4+ naive T cells","06_months",12355,137795,0.0896621793243586
+"1063","iWAT","CD4+ naive T cells","12_months",9900,114505,0.0864591065892319
+"1064","iWAT","CD4+ naive T cells","16_months",2164,46678,0.0463601696730794
+"1065","iWAT","CD4+ naive T cells","23_months",4189,181636,0.0230626087339514
+"1066","iWAT","CD8+ Gzmb+ cytotoxic T cells","03_months",18,111502,0.00016143208193575
+"1067","iWAT","CD8+ Gzmb+ cytotoxic T cells","06_months",24,137795,0.000174171776914982
+"1068","iWAT","CD8+ Gzmb+ cytotoxic T cells","12_months",27,114505,0.000235797563425178
+"1069","iWAT","CD8+ Gzmb+ cytotoxic T cells","16_months",8,46678,0.000171386948883843
+"1070","iWAT","CD8+ Gzmb+ cytotoxic T cells","23_months",26,181636,0.000143143429716576
+"1071","iWAT","CD8+ Gzmk+ cytotoxic T cells","03_months",137,111502,0.00122867751251099
+"1072","iWAT","CD8+ Gzmk+ cytotoxic T cells","06_months",295,137795,0.00214086142457999
+"1073","iWAT","CD8+ Gzmk+ cytotoxic T cells","12_months",314,114505,0.00274223833020392
+"1074","iWAT","CD8+ Gzmk+ cytotoxic T cells","16_months",225,46678,0.00482025793735807
+"1075","iWAT","CD8+ Gzmk+ cytotoxic T cells","23_months",2452,181636,0.0134995265255786
+"1076","iWAT","CD8+ naive T cells","03_months",3148,111502,0.0282326774407634
+"1077","iWAT","CD8+ naive T cells","06_months",3453,137795,0.0250589644036431
+"1078","iWAT","CD8+ naive T cells","12_months",3273,114505,0.0285839046329855
+"1079","iWAT","CD8+ naive T cells","16_months",777,46678,0.0166459574103432
+"1080","iWAT","CD8+ naive T cells","23_months",8589,181636,0.0472868814552181
+"1081","iWAT","CD8+ tissue-resident memory T cells","03_months",1078,111502,0.00966798801815214
+"1082","iWAT","CD8+ tissue-resident memory T cells","06_months",1723,137795,0.0125040821510214
+"1083","iWAT","CD8+ tissue-resident memory T cells","12_months",1142,114505,0.00997336360857604
+"1084","iWAT","CD8+ tissue-resident memory T cells","16_months",676,46678,0.0144821971806847
+"1085","iWAT","CD8+ tissue-resident memory T cells","23_months",1156,181636,0.00636437710586007
+"1086","iWAT","Car1+ double negative cells","03_months",1,111502,8.96844899643056e-06
+"1087","iWAT","Car1+ double negative cells","06_months",2,137795,1.45143147429152e-05
+"1088","iWAT","Car1+ double negative cells","12_months",2,114505,1.74664861796428e-05
+"1089","iWAT","Car1+ double negative cells","16_months",3,46678,6.42701058314409e-05
+"1090","iWAT","Car1+ double negative cells","23_months",1,181636,5.50551652756062e-06
+"1091","iWAT","Epb41l3+ double negative cells","03_months",3,111502,2.69053469892917e-05
+"1092","iWAT","Epb41l3+ double negative cells","06_months",8,137795,5.80572589716608e-05
+"1093","iWAT","Epb41l3+ double negative cells","12_months",10,114505,8.73324308982141e-05
+"1094","iWAT","Epb41l3+ double negative cells","23_months",7,181636,3.85386156929243e-05
+"1095","iWAT","Gammadelta T cells","03_months",1825,111502,0.0163674194184858
+"1096","iWAT","Gammadelta T cells","06_months",2252,137795,0.0163431184005225
+"1097","iWAT","Gammadelta T cells","12_months",2420,114505,0.0211344482773678
+"1098","iWAT","Gammadelta T cells","16_months",825,46678,0.0176742791036463
+"1099","iWAT","Gammadelta T cells","23_months",5530,181636,0.0304455063974102
+"1100","iWAT","Liver-resident T cells","03_months",23,111502,0.000206274326917903
+"1101","iWAT","Liver-resident T cells","06_months",55,137795,0.000399143655430168
+"1102","iWAT","Liver-resident T cells","12_months",44,114505,0.000384262695952142
+"1103","iWAT","Liver-resident T cells","16_months",17,46678,0.000364197266378165
+"1104","iWAT","Liver-resident T cells","23_months",36,181636,0.000198198594992182
+"1105","iWAT","Prf1+ natural killer cells","03_months",933,111502,0.00836756291366971
+"1106","iWAT","Prf1+ natural killer cells","06_months",670,137795,0.00486229543887659
+"1107","iWAT","Prf1+ natural killer cells","12_months",622,114505,0.00543207720186891
+"1108","iWAT","Prf1+ natural killer cells","16_months",169,46678,0.00362054929517117
+"1109","iWAT","Prf1+ natural killer cells","23_months",899,181636,0.00494945935827699
+"1110","iWAT","Sema6d+ natural killer cells","03_months",267,111502,0.00239457588204696
+"1111","iWAT","Sema6d+ natural killer cells","06_months",175,137795,0.00127000254000508
+"1112","iWAT","Sema6d+ natural killer cells","12_months",184,114505,0.00160691672852714
+"1113","iWAT","Sema6d+ natural killer cells","16_months",59,46678,0.00126397874801834
+"1114","iWAT","Sema6d+ natural killer cells","23_months",307,181636,0.00169019357396111
+"1115","iWAT","Stab1+ double negative cells","03_months",12,111502,0.000107621387957167
+"1116","iWAT","Stab1+ double negative cells","06_months",65,137795,0.000471715229144744
+"1117","iWAT","Stab1+ double negative cells","12_months",67,114505,0.000585127287018034
+"1118","iWAT","Stab1+ double negative cells","16_months",6,46678,0.000128540211662882
+"1119","iWAT","Stab1+ double negative cells","23_months",46,181636,0.000253253760267788
+"1120","iWAT","Type 2 innate lymphoid cells","03_months",161,111502,0.00144392028842532
+"1121","iWAT","Type 2 innate lymphoid cells","06_months",142,137795,0.00103051634674698
+"1122","iWAT","Type 2 innate lymphoid cells","12_months",135,114505,0.00117898781712589
+"1123","iWAT","Type 2 innate lymphoid cells","16_months",58,46678,0.00124255537940786
+"1124","iWAT","Type 2 innate lymphoid cells","23_months",523,181636,0.0028793851439142
+"1125","iWAT","Type 3 innate lymphoid cells","03_months",316,111502,0.00283402988287206
+"1126","iWAT","Type 3 innate lymphoid cells","06_months",294,137795,0.00213360426720853
+"1127","iWAT","Type 3 innate lymphoid cells","12_months",237,114505,0.00206977861228767
+"1128","iWAT","Type 3 innate lymphoid cells","16_months",45,46678,0.000964051587471614
+"1129","iWAT","Type 3 innate lymphoid cells","23_months",325,181636,0.0017892928714572

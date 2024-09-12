@@ -1,0 +1,51 @@
+"","main_cell_type","age","count"
+"1","Adipocytes","06_months",-51
+"2","Adipocytes","23_months",32
+"3","Ascending thin limb of LOH cells","06_months",-95
+"4","Ascending thin limb of LOH cells","23_months",94
+"5","Connecting tubule cells","06_months",-76
+"6","Connecting tubule cells","23_months",45
+"7","Descending thin limb of LOH cells","06_months",-37
+"8","Descending thin limb of LOH cells","23_months",75
+"9","Distal convoluted tubule cells","06_months",-48
+"10","Distal convoluted tubule cells","23_months",32
+"11","Fibroblasts","06_months",-106
+"12","Fibroblasts","23_months",69
+"13","Juxtaglomerular cells","06_months",-67
+"14","Juxtaglomerular cells","23_months",35
+"15","Lgr5 positive cells","06_months",-52
+"16","Lgr5 positive cells","23_months",17
+"17","Lymphatic endothelial cells","06_months",-3
+"18","Lymphatic endothelial cells","23_months",13
+"19","Lymphoid cells_B cells","06_months",-112
+"20","Lymphoid cells_B cells","23_months",206
+"21","Lymphoid cells_Plasma cells","06_months",-36
+"22","Lymphoid cells_Plasma cells","23_months",25
+"23","Lymphoid cells_T cells","06_months",-81
+"24","Lymphoid cells_T cells","23_months",67
+"25","Macula densa cells","06_months",-30
+"26","Macula densa cells","23_months",25
+"27","Megf11 positive cells","06_months",-56
+"28","Megf11 positive cells","23_months",50
+"29","Myeloid cells","06_months",-46
+"30","Myeloid cells","23_months",67
+"31","Myeloid cells_Dendritic cells","06_months",-58
+"32","Myeloid cells_Dendritic cells","23_months",54
+"33","Ncam1 positive cells","06_months",-66
+"34","Ncam1 positive cells","23_months",37
+"35","Podocytes","06_months",-84
+"36","Podocytes","23_months",42
+"37","Principal cells","06_months",-140
+"38","Principal cells","23_months",85
+"39","Proximal tubule cells","06_months",-58
+"40","Proximal tubule cells","23_months",56
+"41","Thick ascending limb of LOH cells","06_months",-22
+"42","Thick ascending limb of LOH cells","23_months",50
+"43","Type A intercalated cells","06_months",-43
+"44","Type A intercalated cells","23_months",45
+"45","Type B intercalated cells","06_months",-87
+"46","Type B intercalated cells","23_months",62
+"47","Urothelial cells","06_months",-107
+"48","Urothelial cells","23_months",58
+"49","Vascular endothelial cells","06_months",-36
+"50","Vascular endothelial cells","23_months",30
