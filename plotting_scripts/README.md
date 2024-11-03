@@ -19,7 +19,7 @@ Required packages are included in each script snippets.
 <img src="sample_figure/prop_heatmap.png" width="50%" />
 
 - Heatmap for cell proportion across experimental condition (by replicate)
-<img src="sample_figure/prop_heatmap_rep.png" width="50%" />
+<img src="sample_figure/prop_heatmap_rep.pdf" width="50%" />
 
 - Dot plot for cell-type-specific proportion changes
 <img src="sample_figure/cell_prop_dot.png" width="50%" />
@@ -48,7 +48,7 @@ Required packages are included in each script snippets.
 <img src="sample_figure/gene_expression_dot.png" width="50%" />
 
 - Heatmap for targeted gene expression across cell types/conditions
-<img src="/sample_figure/gene_expression_heatmap.png" width="50%" />
+<img src="sample_figure/gene_expression_heatmap.png" width="50%" />
 
 - Boxplot for target gene expression
 <img src="sample_figure/gene_expression_box.png" width="50%" />

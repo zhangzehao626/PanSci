@@ -56,6 +56,10 @@ To identify differentially expressed genes, we employed the likelihood ratio tes
 ### Generation of customized color palettes
 https://medialab.github.io/iwanthue/
 
+## Code usage
+To better enhance the accessibility and usability of our code and data, we provide a guide to start new analysis from any single cell gene count data. Sample data is highlighted in red and the sample code is highlighted in green.
+<img src="plotting_scripts/sample_figure/data_processing_flow_chart.png" width="95%" />
+
 ## Citation
 If you use the data or code in this repository, please cite our manuscript as follows:
 
@@ -64,4 +68,4 @@ If you use the data or code in this repository, please cite our manuscript as fo
 - __EasySci__: Sziraki, Andras, et al. "A global view of aging and Alzheimer’s pathogenesis-associated cell population dynamics and molecular signatures in human and mouse brains." Nature Genetics 55.12 (2023): 2104-2116. DOI: https://doi.org/10.1038/s41588-023-01572-y
 
 ## Contact
-For questions or further information, please contact Tommy at zzhang03@rockefeller.edu or raise an issue in this repository.
+For questions or further information, please contact Tommy Zhang at zzhang03@rockefeller.edu or raise an issue in this repository.
